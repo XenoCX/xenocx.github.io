@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>A.I. &#8211; Xeno CX</title>
+	<atom:link href="https://xenocx.github.io/category/ai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xenocx.github.io/</link>
+	<description></description>
+	<lastBuildDate>Thu, 21 Dec 2023 17:08:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Hinachi Ai</title>
+		<link>https://xenocx.github.io/hinachi-ai/</link>
+		
+		<dc:creator><![CDATA[Xeno]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 21:26:38 +0000</pubDate>
+				<category><![CDATA[A.I.]]></category>
+		<guid isPermaLink="false">https://xenocx.github.io/?p=20</guid>
+
+					<description><![CDATA[Hinachi Ai is an advanced AI Illustrator created by Xeno Gen Projects that primarily targets the “Toon-Anime'' art style.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="20" class="elementor elementor-20">
+							<div class="elementor-element elementor-element-827882b e-con-full e-flex e-con e-parent" data-id="827882b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+				<div class="elementor-element elementor-element-bd7674c elementor-view-stacked elementor-fixed e-transform e-transform elementor-shape-circle elementor-invisible elementor-widget elementor-widget-icon" data-id="bd7674c" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;fixed&quot;,&quot;_animation&quot;:&quot;bounceIn&quot;,&quot;_transform_scale_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.8,&quot;sizes&quot;:[]},&quot;_transform_scale_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_scale_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="https://xenocx.github.io/">
+			<i aria-hidden="true" class="fas fa-home"></i>			</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a0b85d0 elementor-widget elementor-widget-image" data-id="a0b85d0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img fetchpriority="high" decoding="async" width="1900" height="400" src="https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2.png" class="attachment-full size-full wp-image-94" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2.png 1900w, https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2-300x63.png 300w, https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2-1024x216.png 1024w, https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2-768x162.png 768w, https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2-1536x323.png 1536w" sizes="(max-width: 1900px) 100vw, 1900px" />															</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-45c55f1 e-con-full e-flex e-con e-parent" data-id="45c55f1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+		<div class="elementor-element elementor-element-ac7bee5 e-con-full e-flex e-con e-child" data-id="ac7bee5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-b0a5359 e-n-tabs-mobile elementor-widget elementor-widget-n-tabs" data-id="b0a5359" data-element_type="widget" data-widget_type="nested-tabs.default">
+				<div class="elementor-widget-container">
+					<div class="e-n-tabs" data-widget-number="185" aria-label="Tabs. Open items with Enter or Space, close with Escape and navigate using the Arrow keys.">
+			<div class="e-n-tabs-heading" role="tablist">
+							<button id="e-n-tabs-title-1851" class="e-n-tab-title" aria-selected="true" data-tab-index="1" role="tab" tabindex="0" aria-controls="e-n-tab-content-1851" style="--n-tabs-title-order: 1;">
+				<span class="e-n-tab-icon">
+														</span>
+				<span class="e-n-tab-title-text">
+					Home				</span>
+			</button>
+					<button id="e-n-tabs-title-1852" class="e-n-tab-title" aria-selected="false" data-tab-index="2" role="tab" tabindex="-1" aria-controls="e-n-tab-content-1852" style="--n-tabs-title-order: 2;">
+				<span class="e-n-tab-icon">
+														</span>
+				<span class="e-n-tab-title-text">
+					News				</span>
+			</button>
+					</div>
+			<div class="e-n-tabs-content">
+				<div id="e-n-tab-content-1851" role="tabpanel" aria-labelledby="e-n-tabs-title-1851" data-tab-index="1" style="--n-tabs-title-order: 1;" class="e-active elementor-element elementor-element-7409958 e-con-full e-flex e-con e-child" data-id="7409958" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-c5c2a91 Home_CTR e-flex e-con-boxed e-con e-child" data-id="c5c2a91" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-751ef94 elementor-widget elementor-widget-alert" data-id="751ef94" data-element_type="widget" data-widget_type="alert.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-alert{padding:15px;border-left:5px solid transparent;position:relative;text-align:left}.elementor-alert .elementor-alert-title{display:block;font-weight:700}.elementor-alert .elementor-alert-description{font-size:13px}.elementor-alert button.elementor-alert-dismiss{position:absolute;right:var(--dismiss-icon-horizontal-position,10px);top:var(--dismiss-icon-vertical-position,10px);padding:3px;font-size:var(--dismiss-icon-size,20px);line-height:1;background:transparent;color:var(--dismiss-icon-normal-color,inherit);border:none;cursor:pointer;transition-duration:var(--dismiss-icon-hover-transition-duration,.3s)}.elementor-alert button.elementor-alert-dismiss:hover{color:var(--dismiss-icon-hover-color,inherit)}.elementor-alert button.elementor-alert-dismiss svg{width:var(--dismiss-icon-size,20px);height:var(--dismiss-icon-size,20px);fill:var(--dismiss-icon-normal-color,currentColor);transition-duration:var(--dismiss-icon-hover-transition-duration,.3s)}.elementor-alert button.elementor-alert-dismiss svg:hover{fill:var(--dismiss-icon-hover-color,currentColor)}.elementor-alert.elementor-alert-info{color:#31708f;background-color:#d9edf7;border-color:#bcdff1}.elementor-alert.elementor-alert-success{color:#3c763d;background-color:#dff0d8;border-color:#cae6be}.elementor-alert.elementor-alert-warning{color:#8a6d3b;background-color:#fcf8e3;border-color:#f9f0c3}.elementor-alert.elementor-alert-danger{color:#a94442;background-color:#f2dede;border-color:#e8c4c4}@media (max-width:767px){.elementor-alert{padding:10px}.elementor-alert button.elementor-alert-dismiss{right:7px;top:7px}}</style>		<div class="elementor-alert elementor-alert-danger" role="alert">
+			<span class="elementor-alert-title">Hinachi Ai Access Changed</span>
+							<span class="elementor-alert-description">October 14, 2023 Hinachi Ai can no longer be accesable to public.</span>
+										<button type="button" class="elementor-alert-dismiss">
+					<i aria-hidden="true" class="far fa-times-circle"></i>					<span class="elementor-screen-only">Dismiss this alert.</span>
+				</button>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-70504ed e-flex e-con-boxed e-con e-child" data-id="70504ed" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-c799312 e-flex e-con-boxed e-con e-child" data-id="c799312" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f7d3eae elementor-widget elementor-widget-heading" data-id="f7d3eae" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">What is Hinachi Ai?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-36135ee elementor-widget elementor-widget-text-editor" data-id="36135ee" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><strong class="r-crgep1 r-b88u0q" data-slate-leaf="true" data-offset-key="e5cda7c7f12249c4bd628a9a0c00bf24:0">Hinachi Ai</strong><span data-offset-key="e5cda7c7f12249c4bd628a9a0c00bf24:1" data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkhpbmFjaGklMjBBaSUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJib2xkJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCU3RCU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMiUyMGlzJTIwYW4lMjBhZHZhbmNlZCUyMEFJJTIwSWxsdXN0cmF0b3IlMjBjcmVhdGVkJTIwYnklMjBYZW5vJTIwR2VuJTIwUHJvamVjdHMlMjB0aGF0JTIwcHJpbWFyaWx5JTIwdGFyZ2V0JTIwZm9yJTIwJTVDJTIyVG9vbi1BbmltZSU1QyUyMiUyMGFydCUyMHN0eWxlLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjNlMTg1YjQ1ZmVjNDRkOWU4Y2E4YTMzMDViZjhlOGE0JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMTdkMTk0NzA4ZDRmNDVlNDk4NDE0MzE0NGQ1NTVjYzUlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIwZThlYzczODNiOWE0ODIyOGYzNWUwYzdjMTUwMDJhYSUyMiU3RA=="> is an advanced AI Illustrator created by Xeno Gen Projects that primarily target for &#8220;Toon-Anime&#8221; art style. Even tho, its primarily build for &#8220;Toon-Anime&#8221; art style. It&#8217;s not limited, <strong class="r-crgep1 r-b88u0q" data-slate-leaf="true" data-offset-key="1639dd2278b8456d8920ffbf363c9091:1">Hinachi Ai</strong> can also produce realistic art style.</span></p><p><strong>Hinachi Ai</strong> was public available in November 3, 2022 but on October 14, 2023 it become a private tool for Xeno Gen Projects due to inefficient budget to maintain for public use.</p>						</div>
+				</div>
+		<div class="elementor-element elementor-element-33ab6f5 e-flex e-con-boxed e-con e-child" data-id="33ab6f5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-bbabca2 elementor-align-center elementor-widget elementor-widget-button" data-id="bbabca2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://www.pixiv.net/en/users/87513818">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">View More</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ab4e16c elementor-widget elementor-widget-button" data-id="ab4e16c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://twitter.com/HinachiAi">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Twitter</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-28c91b4 e-flex e-con-boxed e-con e-child" data-id="28c91b4" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-dd17a58 elementor-widget elementor-widget-image" data-id="dd17a58" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://www.phixiv.net/i/c/600x1200_90/img-master/img/2023/12/02/19/38/53/113893225_p0_master1200.jpg" title="" alt="" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-372fac6 elementor-widget elementor-widget-image" data-id="372fac6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://www.phixiv.net/i/c/600x1200_90/img-master/img/2023/06/15/02/16/32/109021692_p0_master1200.jpg" title="" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-406ecd8 e-flex e-con-boxed e-con e-child" data-id="406ecd8" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-7731c04 e-flex e-con-boxed e-con e-child" data-id="7731c04" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-be37a87 elementor-widget elementor-widget-image" data-id="be37a87" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="512" height="700" src="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-1030s-Dreaming-1.png" class="attachment-large size-large wp-image-202" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-1030s-Dreaming-1.png 512w, https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-1030s-Dreaming-1-219x300.png 219w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-6bb9088 elementor-widget elementor-widget-image" data-id="6bb9088" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="512" height="700" src="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030s-Dynamic-1.png" class="attachment-large size-large wp-image-203" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030s-Dynamic-1.png 512w, https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030s-Dynamic-1-219x300.png 219w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c53922f elementor-widget elementor-widget-image" data-id="c53922f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="512" height="700" src="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030m-Twilight-2.0-1.png" class="attachment-large size-large wp-image-514" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030m-Twilight-2.0-1.png 512w, https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030m-Twilight-2.0-1-219x300.png 219w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-8617953 e-flex e-con-boxed e-con e-child" data-id="8617953" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-3aad73f e-flex e-con-boxed e-con e-child" data-id="3aad73f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-704bf7a elementor-widget elementor-widget-heading" data-id="704bf7a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Diffusers and Renderers</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cae72f3 elementor-widget elementor-widget-text-editor" data-id="cae72f3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Hinachi Ai uses combination between diffuser and renderer in order to illustrate an image.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-ff8767f elementor-align-center Diffuser_BTN elementor-widget elementor-widget-button" data-id="ff8767f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Diffusers</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				<div class="elementor-element elementor-element-b599767 elementor-widget elementor-widget-heading" data-id="b599767" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Features</h1>		</div>
+				</div>
+		<div class="elementor-element elementor-element-0dd761b e-flex e-con-boxed e-con e-child" data-id="0dd761b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-5db3624 e-con-full e-flex e-con e-child" data-id="5db3624" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-781ed71 e-flex e-con-boxed e-con e-child" data-id="781ed71" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-0208932 elementor-widget elementor-widget-heading" data-id="0208932" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">AI Correction</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6b5593c elementor-widget elementor-widget-alert" data-id="6b5593c" data-element_type="widget" data-widget_type="alert.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-alert elementor-alert-info" role="alert">
+			<span class="elementor-alert-title">We noticed AI Corrections perform is well dependent on art style.</span>
+										<button type="button" class="elementor-alert-dismiss">
+					<i aria-hidden="true" class="far fa-times-circle"></i>					<span class="elementor-screen-only">Dismiss this alert.</span>
+				</button>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6efa81d elementor-widget elementor-widget-image" data-id="6efa81d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://xenocx.github.io/wp-content/uploads/2023/12/spaces_4QT6SjkQ8R3gtGS76Rxf_uploads_Cv97jiV6oFzQCim4taQ2_Ai-Correction.webp" data-elementor-open-lightbox="yes" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM3LCJ1cmwiOiJodHRwOlwvXC9zdGF0aWNwYWdlLnRlc3RcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzEyXC9zcGFjZXNfNFFUNlNqa1E4UjNndEdTNzZSeGZfdXBsb2Fkc19Ddjk3amlWNm9GelFDaW00dGFRMl9BaS1Db3JyZWN0aW9uLndlYnAifQ%3D%3D">
+							<img loading="lazy" decoding="async" width="276" height="300" src="https://xenocx.github.io/wp-content/uploads/2023/12/spaces_4QT6SjkQ8R3gtGS76Rxf_uploads_Cv97jiV6oFzQCim4taQ2_Ai-Correction-276x300.webp" class="attachment-medium size-medium wp-image-137" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/spaces_4QT6SjkQ8R3gtGS76Rxf_uploads_Cv97jiV6oFzQCim4taQ2_Ai-Correction-276x300.webp 276w, https://xenocx.github.io/wp-content/uploads/2023/12/spaces_4QT6SjkQ8R3gtGS76Rxf_uploads_Cv97jiV6oFzQCim4taQ2_Ai-Correction-943x1024.webp 943w, https://xenocx.github.io/wp-content/uploads/2023/12/spaces_4QT6SjkQ8R3gtGS76Rxf_uploads_Cv97jiV6oFzQCim4taQ2_Ai-Correction-768x834.webp 768w, https://xenocx.github.io/wp-content/uploads/2023/12/spaces_4QT6SjkQ8R3gtGS76Rxf_uploads_Cv97jiV6oFzQCim4taQ2_Ai-Correction.webp 1024w" sizes="(max-width: 276px) 100vw, 276px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-dc6f83a elementor-widget elementor-widget-text-editor" data-id="dc6f83a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkFJJTIwQ29ycmVjdGlvbnMlMjB0cnklMjB0byUyMGNvcnJlY3QlMjAlNUMlMjJ3aGF0J3MlMjB3cm9uZyU1QyUyMiUyMG9yJTIwJTVDJTIyb3V0JTIwb2YlMjBwbGFjZSU1QyUyMiUyMGZyb20lMjB0aGUlMjBpbWFnZSUyMG91dHB1dC4lMjBUaGlzJTIwZG9lc24ndCUyMGNvcnJlY3QlMjBhbGwlMjBidXQlMjByZWR1Y2VkJTIwdGhlJTIwbnVtYmVyJTIwb2YlMjBlcnJvcnMlMjB3aXRoaW4lMjBhbiUyMGltYWdlJTIwb3V0cHV0LiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjYwMjQ1OWNlYWFlZjRlMGM4NzUwZTk0MDIzODdjZDJjJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyM2NkYzE2MWNjYmU0NDhmZTgzODVkN2E3NmY1NGZiYzclMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJiOGU4Yzk0YjRiYjA0MDRmYTI5ZTVjODIyOGYwMWRhYiUyMiU3RA==">AI Corrections try to correct &#8220;what&#8217;s wrong&#8221; or &#8220;out of place&#8221; from the image output. This doesn&#8217;t correct all but reduced the number of errors within an image output.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6d78ad5 e-flex e-con-boxed e-con e-child" data-id="6d78ad5" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-ecd5355 elementor-widget elementor-widget-heading" data-id="ecd5355" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Censorship</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ecd894d elementor-widget elementor-widget-text-editor" data-id="ecd894d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkhpbmFjaGklMjBBaSUyMGNhbiUyMHByb2R1Y2UlMjBpbWFnZSUyMGJldHdlZW4lMjBTRlclMjBhbmQlMjBOU0ZXLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmZkN2FlOWMwYjNiMDQ4MzJhM2E1NDg1MjFlYWI4ODBiJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyODM1OTRlNjE3NmY0NGUxN2JhNTQ4NjljNGVjODFjMGMlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIxOWNiNjgzNDUxNjY0ODM5YWQ3ZjRmOGJkMTNhOTM0MCUyMiU3RA==">Hinachi Ai can produce image between SFW and NSFW.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-5fd1e78 e-flex e-con-boxed e-con e-child" data-id="5fd1e78" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-16539b8 elementor-widget elementor-widget-heading" data-id="16539b8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Composition Prompt</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-95c8dbd elementor-widget elementor-widget-alert" data-id="95c8dbd" data-element_type="widget" data-widget_type="alert.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-alert elementor-alert-warning" role="alert">
+			<span class="elementor-alert-title">Not yet Documented</span>
+										<button type="button" class="elementor-alert-dismiss">
+					<i aria-hidden="true" class="far fa-times-circle"></i>					<span class="elementor-screen-only">Dismiss this alert.</span>
+				</button>
+					</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-46a4274 e-flex e-con-boxed e-con e-child" data-id="46a4274" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1782b71 elementor-widget elementor-widget-heading" data-id="1782b71" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Emphasizer</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e9d28d7 elementor-widget elementor-widget-alert" data-id="e9d28d7" data-element_type="widget" data-widget_type="alert.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-alert elementor-alert-warning" role="alert">
+			<span class="elementor-alert-title">Not yet Documented</span>
+										<button type="button" class="elementor-alert-dismiss">
+					<i aria-hidden="true" class="far fa-times-circle"></i>					<span class="elementor-screen-only">Dismiss this alert.</span>
+				</button>
+					</div>
+				</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-14eb07d e-flex e-con-boxed e-con e-child" data-id="14eb07d" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-e1dd5ee elementor-widget elementor-widget-heading" data-id="e1dd5ee" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Image Allusion</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f2e345e elementor-widget elementor-widget-image" data-id="f2e345e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://xenocx.github.io/wp-content/uploads/2023/12/Image-Allusion.png" data-elementor-open-lightbox="yes" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTYzLCJ1cmwiOiJodHRwOlwvXC9zdGF0aWNwYWdlLnRlc3RcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzEyXC9JbWFnZS1BbGx1c2lvbi5wbmcifQ%3D%3D">
+							<img loading="lazy" decoding="async" width="300" height="176" src="https://xenocx.github.io/wp-content/uploads/2023/12/Image-Allusion-300x176.png" class="attachment-medium size-medium wp-image-163" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/Image-Allusion-300x176.png 300w, https://xenocx.github.io/wp-content/uploads/2023/12/Image-Allusion-768x450.png 768w, https://xenocx.github.io/wp-content/uploads/2023/12/Image-Allusion.png 1024w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-7df84cd elementor-widget elementor-widget-text-editor" data-id="7df84cd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlRoaXMlMjBmZWF0dXJlJTIwaXMlMjBhYmxlJTIwdXMlMjB0byUyMHVzZSUyMGltYWdlJTIwYXMlMjByZWZlcmVuY2UlMjBhbmQlMjBIaW5hY2hpJTIwQWklMjB3aWxsJTIwbWFrZSUyMGFuJTIwaWRlYSUyMG91dCUyMG9mJTIwaXQuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNzBiNzAwNTFlZjhjNGM1MGExNWExMTM1YjMwMDFlYjUlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIxYjk4NGY3NzBhMmU0ZDU2OTdhOTIxZTkwMzNkYTFiMyUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmE4NWNjYjE3NWM5ZjQ4MjM5Y2Q0OTRjZWU5ZDU1YWQwJTIyJTdE">This feature is able us to use image as reference and Hinachi Ai will make an idea out of it.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-d6efe30 e-con-full e-flex e-con e-child" data-id="d6efe30" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+		<div class="elementor-element elementor-element-99c4dac e-flex e-con-boxed e-con e-child" data-id="99c4dac" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1b2ece7 elementor-widget elementor-widget-heading" data-id="1b2ece7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">AI Precision Vector</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1b819b7 elementor-widget elementor-widget-text-editor" data-id="1b819b7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlRoaXMlMjB3aWxsJTIwaGVscCUyMEFJJTIwQ29ycmVjdGlvbiUyMHRvJTIwcGVyZm9ybSUyMG1vcmUuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNzJjM2Q3OWNlOWRlNDg4MjgzNjM1OWFmZWY5ZDk0M2IlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJiMWI0NDYyYmMwNTc0Zjc2YjdhYWIyOTY4NmUzNTZkNCUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjYyNzYzYWJjZTZiMDQwNmNiMDM3NTE4NmIzZmMzYTQzJTIyJTdE">This will help AI Correction to perform more.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-2ff17e0 e-flex e-con-boxed e-con e-child" data-id="2ff17e0" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f3a1be4 elementor-widget elementor-widget-heading" data-id="f3a1be4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Betterness Focal Point (BFP)</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-dca083a elementor-widget elementor-widget-image" data-id="dca083a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://xenocx.github.io/wp-content/uploads/2023/12/BFP.png" data-elementor-open-lightbox="yes" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM4LCJ1cmwiOiJodHRwOlwvXC9zdGF0aWNwYWdlLnRlc3RcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzEyXC9CRlAucG5nIn0%3D">
+							<img loading="lazy" decoding="async" width="278" height="300" src="https://xenocx.github.io/wp-content/uploads/2023/12/BFP-278x300.png" class="attachment-medium size-medium wp-image-138" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/BFP-278x300.png 278w, https://xenocx.github.io/wp-content/uploads/2023/12/BFP-949x1024.png 949w, https://xenocx.github.io/wp-content/uploads/2023/12/BFP-768x829.png 768w, https://xenocx.github.io/wp-content/uploads/2023/12/BFP.png 1019w" sizes="(max-width: 278px) 100vw, 278px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-dd507de elementor-widget elementor-widget-text-editor" data-id="dd507de" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkJldHRlciUyMEZvY2FsJTIwUG9pbnQlMjBpcyUyMGElMjB0ZWNobmlxdWUlMjB0aGF0JTIwYWRkcyUyMG1vcmUlMjBxdWFsaXR5JTIwb2YlMjB0aGUlMjBpbWFnZSUyMGJ5JTIwc2ltdWxhdGluZyUyMHZpcnR1YWwlMjByYXlzLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjZkOTEzMDk1YzIyZTQ5YjNiYzk2MDM4MzZmNjg1ZDk4JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyY2FjZmJhYWM1MDdmNDY3NmExZWVmMjY5YWIwNWRlN2MlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIzMDEwMmVkNTc5YWM0NjNhOTRiZDIxZjRlYTI2OGRhNCUyMiU3RA==">Better Focal Point is a technique that adds more quality of the image by simulating virtual rays.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f68a79b e-flex e-con-boxed e-con e-child" data-id="f68a79b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6a86ed8 elementor-widget elementor-widget-heading" data-id="6a86ed8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Color Enhancement</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f2e05a1 elementor-widget elementor-widget-alert" data-id="f2e05a1" data-element_type="widget" data-widget_type="alert.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-alert elementor-alert-info" role="alert">
+			<span class="elementor-alert-title">Image shows the effect of Color Enhancement 1.1</span>
+										<button type="button" class="elementor-alert-dismiss">
+					<i aria-hidden="true" class="far fa-times-circle"></i>					<span class="elementor-screen-only">Dismiss this alert.</span>
+				</button>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-54a1c39 elementor-widget elementor-widget-image" data-id="54a1c39" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://xenocx.github.io/wp-content/uploads/2023/12/color-enh.png" data-elementor-open-lightbox="yes" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM5LCJ1cmwiOiJodHRwOlwvXC9zdGF0aWNwYWdlLnRlc3RcL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMjNcLzEyXC9jb2xvci1lbmgucG5nIn0%3D">
+							<img loading="lazy" decoding="async" width="300" height="176" src="https://xenocx.github.io/wp-content/uploads/2023/12/color-enh-300x176.png" class="attachment-medium size-medium wp-image-139" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/color-enh-300x176.png 300w, https://xenocx.github.io/wp-content/uploads/2023/12/color-enh-768x450.png 768w, https://xenocx.github.io/wp-content/uploads/2023/12/color-enh.png 1024w" sizes="(max-width: 300px) 100vw, 300px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-976a595 elementor-widget elementor-widget-text-editor" data-id="976a595" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlRoaXMlMjBmZWF0dXJlJTIwbWltaWNzJTIwdGhlJTIwYXVyYSUyMG9mJTIwQW5pbWUlMjBTdHlsZSUyMGZvciUyMHRoZSUyMGltYWdlJTIwb3V0cHV0LiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmRmMmQ3NWM4NTk1OTQ2ZDJhZjgwMWQxODc0NTZiNTQ5JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyZjYxODM4ZmY4YWE0NDFlYTkxNGQ1YzY5ZDYwZjdjMDElMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI0NDJjNDk0Mjg1MmM0MzIwOWI4MTEwMjE4MmFhMGQ2OSUyMiU3RA==">This feature mimics the aura of Anime Style for the image output.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-6e99c67 e-flex e-con-boxed e-con e-child" data-id="6e99c67" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-edb5d26 elementor-widget elementor-widget-heading" data-id="edb5d26" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Renderer Optimized</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cf5a929 elementor-widget elementor-widget-text-editor" data-id="cf5a929" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkl0JTIwb3B0aW1pemVkJTIwdGhlJTIwcmVuZGVyZXIlMjBieSUyMGxlc3NlbmluZyUyMHRoZSUyMEdQVSUyMFVzYWdlJTIwYW5kJTIwdGhlJTIwaW1hZ2UlMjBxdWFsaXR5JTIwYW5kJTIwaW4lMjBleGNoYW5nZSUyMG9mJTIwaHVnZSUyMHBlcmZvcm1hbmNlJTIwaW5jcmVhc2UuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMWUxMzliNzc3ZDY0NGU4ZTk5NmUzYmNiZGUxNDhjMGQlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI5ZTg4ZTc3MDUzNDY0MThmODkwNmY3MGMxZWNhOTBlNiUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjY3NzY2YmQ1NzhmMDRkZWNiZjU2MmU1ZjQzNzQ0NDZmJTIyJTdE">It optimized the renderer by lessening the GPU Usage and the image quality and in exchange of huge performance increase.</span></p><p> </p><p><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkl0JTIwZG9lcyUyMHJlZHVjZSUyMGltYWdlJTIwcXVhbGl0eSUyQyUyMGJ1dCUyMGl0JTIwYWxtb3N0JTIwaGFzJTIwc21hbGwlMjBkaWZmZXJlbmNlJTJDJTIwYW5kJTIwdGhlJTIwZGlmZmVyZW5jZSUyMGFyZW4ndCUyMG5vdGljZWFibGUlMjB3aGVuJTIwY29tcGFyZWQlMjB0byUyMHRoZSUyMHVuLW9wdGltaXplZCUyMHZlcnNpb24uJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyZmI0NjU3ZTY5MzEzNGZiMWEyOGUzODJhMTE1NmRlODYlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI4OTU1OTY4ODliMGY0YzI0OTIwYzgzOThkMTEyYzQ4MiUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjAzMTQ4YzZiMDJlYTQyZTFhNzI4NDNlZTNkYTg3ZGYxJTIyJTdE">It does reduce image quality, but it almost has small difference, and the difference aren&#8217;t noticeable when compared to the un-optimized version.</span></p>						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				</div>
+		<div id="e-n-tab-content-1852" role="tabpanel" aria-labelledby="e-n-tabs-title-1852" data-tab-index="2" style="--n-tabs-title-order: 2;" class=" elementor-element elementor-element-5cc1a93 e-con-full e-flex e-con e-child" data-id="5cc1a93" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-0cdfb24 elementor-widget elementor-widget-elementskit-blog-posts" data-id="0cdfb24" data-element_type="widget" data-widget_type="elementskit-blog-posts.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <div id="post-items--0cdfb24" class="row post-items">
+                    <div class="col-md-12">
+
+                                    <div class="elementskit-blog-block-post">
+                        <div class="row no-gutters">
+                            
+                            <div class="col-md-12 order-2">
+                                <div class="elementskit-post-body ">
+                                    <div class="elementskit-entry-header">
+                                        
+                                                                                                                                        
+                                            
+                                                                                            				<h2 class="entry-title">
+					<a href="https://xenocx.github.io/elementor-639/">
+						HAi &#8211; Christmas 2023 Update					</a>
+				</h2>
+			                                                                                </div><!-- .elementskit-entry-header END -->
+
+                                                                            <div class="elementskit-post-footer">
+                                                                                            <p>Christmas 2023 Update Version Target: Hinachi Ai (HAi) Version: Hinachi Ai 3.0.2312 New BATCH 1 Pose Editor &#8211; Hinachi Ai can now illustrate a specific&hellip;</p>
+                                                                                                                                </div><!-- .elementskit-post-footer END -->
+                                                                    </div><!-- .elementskit-post-body END -->
+                            </div>
+                        </div>
+                    </div><!-- .elementskit-blog-block-post .radius .gradient-bg END -->
+                
+            </div>
+                    <div class="col-md-12">
+
+                                    <div class="elementskit-blog-block-post">
+                        <div class="row no-gutters">
+                            
+                            <div class="col-md-12 order-2">
+                                <div class="elementskit-post-body ">
+                                    <div class="elementskit-entry-header">
+                                        
+                                                                                                                                        
+                                            
+                                                                                            				<h2 class="entry-title">
+					<a href="https://xenocx.github.io/hai-oct-2023-update/">
+						HAi &#8211; Oct 2023 Update					</a>
+				</h2>
+			                                                                                </div><!-- .elementskit-entry-header END -->
+
+                                                                            <div class="elementskit-post-footer">
+                                                                                            <p>October Update Version Target: Hinachi Ai Version: Hinachi Ai 2.0 Update 2310 Changes BATCH 1 Hinachi Ai will be no longer public available due to&hellip;</p>
+                                                                                                                                </div><!-- .elementskit-post-footer END -->
+                                                                    </div><!-- .elementskit-post-body END -->
+                            </div>
+                        </div>
+                    </div><!-- .elementskit-blog-block-post .radius .gradient-bg END -->
+                
+            </div>
+                    <div class="col-md-12">
+
+                                    <div class="elementskit-blog-block-post">
+                        <div class="row no-gutters">
+                            
+                            <div class="col-md-12 order-2">
+                                <div class="elementskit-post-body ">
+                                    <div class="elementskit-entry-header">
+                                        
+                                                                                                                                        
+                                            
+                                                                                            				<h2 class="entry-title">
+					<a href="https://xenocx.github.io/elementor-714/">
+						HAi &#8211; Jun 2023 Update					</a>
+				</h2>
+			                                                                                </div><!-- .elementskit-entry-header END -->
+
+                                                                            <div class="elementskit-post-footer">
+                                                                                            <p>Jun 2023 Update Version Target: Hinachi Ai Version: Hinachi Ai 2.0.2306 New BATCH 1 Hinachi Ai 2.0 Initial Release New GUI Improved BATCH 1 AI&hellip;</p>
+                                                                                                                                </div><!-- .elementskit-post-footer END -->
+                                                                    </div><!-- .elementskit-post-body END -->
+                            </div>
+                        </div>
+                    </div><!-- .elementskit-blog-block-post .radius .gradient-bg END -->
+                
+            </div>
+                </div>
+       </div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-86efe63 Diffuser_CTR e-flex e-con-boxed e-con e-child" data-id="86efe63" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+					</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-4876274 e-con-full e-flex e-con e-child" data-id="4876274" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+				<div class="elementor-element elementor-element-a9ce786 elementor-widget elementor-widget-heading" data-id="a9ce786" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Hinachi Ai</h1>		</div>
+				</div>
+		<div class="elementor-element elementor-element-999b42d e-con-full e-flex e-con e-child" data-id="999b42d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-5f64ede e-con-full e-flex e-con e-child" data-id="5f64ede" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-ac4354d elementor-widget elementor-widget-heading" data-id="ac4354d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Developer(s)</h2>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-91e9dec e-con-full e-flex e-con e-child" data-id="91e9dec" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-f892918 elementor-widget elementor-widget-heading" data-id="f892918" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small"><a href="https://github.com/XenoCX">Xeno CX</a></h2>		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2cea6bc e-con-full e-flex e-con e-child" data-id="2cea6bc" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-046b24a e-con-full e-flex e-con e-child" data-id="046b24a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-0c3bae4 elementor-widget elementor-widget-heading" data-id="0c3bae4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Publisher(s)</h2>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-b1cca57 e-con-full e-flex e-con e-child" data-id="b1cca57" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-c695e4f elementor-widget elementor-widget-heading" data-id="c695e4f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small"><a href="https://www.facebook.com/XenoGenProjects">Xeno Gen Projects</a></h2>		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3ab6c9d e-con-full e-flex e-con e-child" data-id="3ab6c9d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-1df7bf9 e-con-full e-flex e-con e-child" data-id="1df7bf9" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-4e9d20d elementor-widget elementor-widget-heading" data-id="4e9d20d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Availability</h2>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-745e38c e-con-full e-flex e-con e-child" data-id="745e38c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-ced1bdb elementor-widget elementor-widget-heading" data-id="ced1bdb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Private</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2775ec9 elementor-widget elementor-widget-heading" data-id="2775ec9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Public (Nov 3 2022 - Oct 14, 2023)</h2>		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-2e04c5d e-con-full e-flex e-con e-child" data-id="2e04c5d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-e54060c e-con-full e-flex e-con e-child" data-id="e54060c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-960778b elementor-widget elementor-widget-heading" data-id="960778b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Release(s)</h2>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-79b8501 e-con-full e-flex e-con e-child" data-id="79b8501" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-67e5071 elementor-widget elementor-widget-heading" data-id="67e5071" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Hinachi Ai 2.0 (Jun 26, 2023)</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-fd611dc elementor-widget elementor-widget-heading" data-id="fd611dc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Hinachi Ai (Oct 28, 2022)</h2>		</div>
+				</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-21bcfdd e-con-full e-flex e-con e-child" data-id="21bcfdd" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+		<div class="elementor-element elementor-element-12a0a50 e-con-full e-flex e-con e-child" data-id="12a0a50" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-ce362df elementor-widget elementor-widget-heading" data-id="ce362df" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Written In:</h2>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3ef8cdc e-con-full e-flex e-con e-child" data-id="3ef8cdc" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-3effd39 elementor-widget elementor-widget-heading" data-id="3effd39" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">Python</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6d8228d elementor-widget elementor-widget-heading" data-id="6d8228d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">C#</h2>		</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

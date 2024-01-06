@@ -12,19 +12,676 @@
 	<atom:link href="https://xenocx.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xenocx.github.io/</link>
 	<description></description>
-	<lastBuildDate>Mon, 04 Dec 2023 04:40:56 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Jan 2024 12:44:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
-		<title>Hinachi Ai</title>
-		<link>https://xenocx.github.io/2023/12/02/hinachi-ai-2-0/</link>
+		<title>PSAI</title>
+		<link>https://xenocx.github.io/psai/</link>
 		
 		<dc:creator><![CDATA[Xeno]]></dc:creator>
-		<pubDate>Sat, 02 Dec 2023 21:26:38 +0000</pubDate>
+		<pubDate>Sat, 06 Jan 2024 05:28:52 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://xenocx.github.io/?p=860</guid>
+
+					<description><![CDATA[PSAI Luette Rail Fenrir Amesha]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="860" class="elementor elementor-860">
+							<div class="elementor-element elementor-element-3b3e7a3 e-flex e-con-boxed e-con e-parent" data-id="3b3e7a3" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5def7dc elementor-widget elementor-widget-heading" data-id="5def7dc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">PSAI</h2>		</div>
+				</div>
+		<div class="elementor-element elementor-element-493f348 e-flex e-con-boxed e-con e-child" data-id="493f348" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+		<div class="elementor-element elementor-element-a63023c e-flex e-con-boxed e-con e-child" data-id="a63023c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-961763e LuetteIntro elementor-widget elementor-widget-image" data-id="961763e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>									<figure class="wp-caption">
+										<img fetchpriority="high" decoding="async" width="800" height="800" src="https://xenocx.github.io/wp-content/uploads/2024/01/Luette-Circular-Icon-1024x1024.png" class="attachment-large size-large wp-image-862" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2024/01/Luette-Circular-Icon-1024x1024.png 1024w, https://xenocx.github.io/wp-content/uploads/2024/01/Luette-Circular-Icon-300x300.png 300w, https://xenocx.github.io/wp-content/uploads/2024/01/Luette-Circular-Icon-150x150.png 150w, https://xenocx.github.io/wp-content/uploads/2024/01/Luette-Circular-Icon-768x768.png 768w, https://xenocx.github.io/wp-content/uploads/2024/01/Luette-Circular-Icon-1536x1536.png 1536w, https://xenocx.github.io/wp-content/uploads/2024/01/Luette-Circular-Icon-2048x2048.png 2048w" sizes="(max-width: 800px) 100vw, 800px" />											<figcaption class="widget-image-caption wp-caption-text">Luette</figcaption>
+										</figure>
+									</div>
+				</div>
+				<div class="elementor-element elementor-element-d9debee elementor-widget__width-initial RailIntro elementor-widget elementor-widget-image" data-id="d9debee" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+										<img decoding="async" width="800" height="800" src="https://xenocx.github.io/wp-content/uploads/2024/01/Rail-Circular-Icon-1024x1024.png" class="attachment-large size-large wp-image-863" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2024/01/Rail-Circular-Icon-1024x1024.png 1024w, https://xenocx.github.io/wp-content/uploads/2024/01/Rail-Circular-Icon-300x300.png 300w, https://xenocx.github.io/wp-content/uploads/2024/01/Rail-Circular-Icon-150x150.png 150w, https://xenocx.github.io/wp-content/uploads/2024/01/Rail-Circular-Icon-768x768.png 768w, https://xenocx.github.io/wp-content/uploads/2024/01/Rail-Circular-Icon-1536x1536.png 1536w, https://xenocx.github.io/wp-content/uploads/2024/01/Rail-Circular-Icon-2048x2048.png 2048w" sizes="(max-width: 800px) 100vw, 800px" />											<figcaption class="widget-image-caption wp-caption-text">Rail</figcaption>
+										</figure>
+									</div>
+				</div>
+				<div class="elementor-element elementor-element-ee5e80e elementor-widget__width-initial FenrirIntro elementor-widget elementor-widget-image" data-id="ee5e80e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+										<img decoding="async" width="800" height="800" src="https://xenocx.github.io/wp-content/uploads/2024/01/Fenrir-Circular-Icon-1024x1024.png" class="attachment-large size-large wp-image-864" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2024/01/Fenrir-Circular-Icon-1024x1024.png 1024w, https://xenocx.github.io/wp-content/uploads/2024/01/Fenrir-Circular-Icon-300x300.png 300w, https://xenocx.github.io/wp-content/uploads/2024/01/Fenrir-Circular-Icon-150x150.png 150w, https://xenocx.github.io/wp-content/uploads/2024/01/Fenrir-Circular-Icon-768x768.png 768w, https://xenocx.github.io/wp-content/uploads/2024/01/Fenrir-Circular-Icon-1536x1536.png 1536w, https://xenocx.github.io/wp-content/uploads/2024/01/Fenrir-Circular-Icon-2048x2048.png 2048w" sizes="(max-width: 800px) 100vw, 800px" />											<figcaption class="widget-image-caption wp-caption-text">Fenrir</figcaption>
+										</figure>
+									</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f9c6381 e-flex e-con-boxed e-con e-child" data-id="f9c6381" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-20dfece AmeshaIntro elementor-widget elementor-widget-image" data-id="20dfece" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+												<figure class="wp-caption">
+										<img loading="lazy" decoding="async" width="800" height="800" src="https://xenocx.github.io/wp-content/uploads/2024/01/Amesha-Circular-Icon-1024x1024.png" class="attachment-large size-large wp-image-865" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2024/01/Amesha-Circular-Icon-1024x1024.png 1024w, https://xenocx.github.io/wp-content/uploads/2024/01/Amesha-Circular-Icon-300x300.png 300w, https://xenocx.github.io/wp-content/uploads/2024/01/Amesha-Circular-Icon-150x150.png 150w, https://xenocx.github.io/wp-content/uploads/2024/01/Amesha-Circular-Icon-768x768.png 768w, https://xenocx.github.io/wp-content/uploads/2024/01/Amesha-Circular-Icon.png 1274w" sizes="(max-width: 800px) 100vw, 800px" />											<figcaption class="widget-image-caption wp-caption-text">Amesha</figcaption>
+										</figure>
+									</div>
+				</div>
+					</div>
+				</div>
+					</div>
+				</div>
+				<div class="elementor-element elementor-element-eb1598f elementor-widget elementor-widget-html" data-id="eb1598f" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<style>
+
+    .LuetteIntro{
+        cursor: pointer
+    }
+
+    .RailIntro{
+        cursor: pointer
+    }
+
+    .FenrirIntro{
+        cursor: pointer
+    }
+
+    .AmeshaIntro{
+        cursor: pointer
+    }
+</style>	
+
+<audio id="LuetteAudio" src="https://xenocx.github.io/wp-content/uploads/2024/01/Luette-Introduction.wav"></audio>
+<audio id="RailAudio" src="https://xenocx.github.io/wp-content/uploads/2024/01/Rail-Introduction.wav"></audio>
+<audio id="FenrirAudio" src="https://xenocx.github.io/wp-content/uploads/2024/01/Fenrir-Introduction.wav"></audio>
+<audio id="AmeshaAudio" src="https://xenocx.github.io/wp-content/uploads/2024/01/Amesha-Introduction.wav"></audio>
+
+<script>
+let LuetteAudioBTN = document.querySelector('.LuetteIntro');
+let LuetteAudioValue = "LuetteAudio";
+
+let RailAudioBTN = document.querySelector('.RailIntro');
+let RailAudioValue = "RailAudio";
+
+let FenrirAudioBTN = document.querySelector('.FenrirIntro'); 
+let FenrirAudioValue = "FenrirAudio";
+
+let AmeshaAudioBTN = document.querySelector('.AmeshaIntro'); 
+let AmeshaAudioValue = "AmeshaAudio";
+var audio;
+
+       LuetteAudioBTN.addEventListener('click', function(){
+        AudioPlay(LuetteAudioValue);
+      });
+
+      RailAudioBTN.addEventListener('click', function(){
+        AudioPlay(RailAudioValue);
+      });
+
+      FenrirAudioBTN.addEventListener('click', function(){
+        AudioPlay(FenrirAudioValue);
+      });
+
+       AmeshaAudioBTN.addEventListener('click', function()
+       {
+           AudioPlay(AmeshaAudioValue);
+        });
+        
+function AudioPlay(AudioClip)
+{
+    if(audio == null)
+    {
+        audio = document.getElementById(AudioClip);
+        audio.currentTime = 0
+        audio.play();
+    }
+
+    else
+    {
+        audio.pause();
+        audio = document.getElementById(AudioClip);
+        audio.currentTime = 0
+        audio.play();
+    }
+}
+</script>
+
+		</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+		
+		<enclosure url="https://xenocx.github.io/wp-content/uploads/2024/01/Amesha-Introduction.wav" length="1714688" type="audio/wav" />
+<enclosure url="https://xenocx.github.io/wp-content/uploads/2024/01/Luette-Introduction.wav" length="1100816" type="audio/wav" />
+<enclosure url="https://xenocx.github.io/wp-content/uploads/2024/01/Rail-Introduction.wav" length="910304" type="audio/wav" />
+<enclosure url="https://xenocx.github.io/wp-content/uploads/2024/01/Fenrir-Introduction.wav" length="1771136" type="audio/wav" />
+
+			</item>
+		<item>
+		<title>Hinachi Ai &#8211; Ultimata LD</title>
+		<link>https://xenocx.github.io/hai-ultimata-ld/</link>
+		
+		<dc:creator><![CDATA[Xeno]]></dc:creator>
+		<pubDate>Sun, 31 Dec 2023 10:27:23 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://xenocx.github.io/?p=782</guid>
+
+					<description><![CDATA[Hinachi Ai &#8211; Ultimata LD Target (AI) Target (Style) V.A.E Hinachi Ai 3.0 Anime Style HAi Encoder &#8211; Ultimata LD Engine(s) Renderer(s) Minimum Output Maximum Output Luden (LD) MET 1040r 2160&#215;2160 3960&#215;3960 Version(s) Creation Date Recommended VRam Recommended RAM HAi &#8211; Ultimata Full LDHAi &#8211; Ultimata Pruned LDHAi &#8211; Ultimata Enhanced LD December 27, 2023December [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="782" class="elementor elementor-782">
+							<div class="elementor-element elementor-element-4a464f0 e-con-full e-flex e-con e-parent" data-id="4a464f0" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
+				<div class="elementor-element elementor-element-43b2d31 elementor-widget elementor-widget-heading" data-id="43b2d31" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Hinachi Ai - Ultimata LD</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e44b4aa elementor-widget elementor-widget-image" data-id="e44b4aa" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://xenocx.github.io/wp-content/uploads/2024/01/Sticker-MET-1040r-Ultimata.png" title="" alt="" loading="lazy" />															</div>
+				</div>
+		<div class="elementor-element elementor-element-b61338b e-con-full e-flex e-con e-child" data-id="b61338b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-e9e85a5 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="e9e85a5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Target (AI)</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e816fa6 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="e816fa6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Target (Style)</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0314ad5 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="0314ad5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">V.A.E</p>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ef0049b e-con-full e-flex e-con e-child" data-id="ef0049b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-1e00c66 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="1e00c66" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Hinachi Ai 3.0</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-b4f842f elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="b4f842f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Anime Style</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-21c9dc0 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="21c9dc0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>HAi Encoder &#8211; Ultimata LD</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-8266366 e-con-full e-flex e-con e-child" data-id="8266366" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-82af94d elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="82af94d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Engine(s)</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b327032 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="b327032" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Renderer(s)</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a66b13b elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="a66b13b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Minimum Output</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2b009d9 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="2b009d9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Maximum Output</p>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-a6eeb3c e-con-full e-flex e-con e-child" data-id="a6eeb3c" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-71c18ee elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="71c18ee" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Luden (LD)</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-020aa91 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="020aa91" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>MET 1040r</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-bbbbaf7 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="bbbbaf7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>2160&#215;2160</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-dc9042b elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="dc9042b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>3960&#215;3960</p>						</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-3489ffc e-con-full e-flex e-con e-child" data-id="3489ffc" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-ed21562 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="ed21562" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Version(s)</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-893e3b0 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="893e3b0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Creation Date</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ec69a86 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="ec69a86" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Recommended VRam</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a41bd3a elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="a41bd3a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Recommended RAM</p>		</div>
+				</div>
+				</div>
+		<div class="elementor-element elementor-element-ca2ca7f e-con-full e-flex e-con e-child" data-id="ca2ca7f" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-89e0f0a elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="89e0f0a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>HAi &#8211; Ultimata Full LD<br />HAi &#8211; Ultimata Pruned LD<br />HAi &#8211; Ultimata Enhanced LD</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-63e2bc9 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="63e2bc9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>December 27, 2023<br />December 27, 2023<br />December 29, 2023</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-e1af2e4 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="e1af2e4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>13 GB<br />7 GB<br />7 GB</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5ddf0fb elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="5ddf0fb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>26 GB<br />20 GB<br />20 GB</p>						</div>
+				</div>
+				</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>P.S.S &#8211; Christmas 2023 Update</title>
+		<link>https://xenocx.github.io/elementor-664/</link>
+		
+		<dc:creator><![CDATA[Xeno]]></dc:creator>
+		<pubDate>Thu, 21 Dec 2023 13:35:31 +0000</pubDate>
+				<category><![CDATA[Phantasium Studio Silicon]]></category>
+		<guid isPermaLink="false">https://xenocx.github.io/?p=664</guid>
+
+					<description><![CDATA[Christmas 2023 Update New Feature found that needs to re-create or re-generate the audio files I advised that if you want higher quality audio do not use it because it because it will degrade the quallity of audio. In order Anti Synthesizer work, it needs to generate or create the audio again. This doesn&#8217;t protect [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="664" class="elementor elementor-664">
+							<div class="elementor-element elementor-element-75f716a8 e-flex e-con-boxed e-con e-parent" data-id="75f716a8" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6522f1a0 elementor-widget elementor-widget-heading" data-id="6522f1a0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Christmas 2023 Update</h2>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-1bc94918 e-flex e-con-boxed e-con e-parent" data-id="1bc94918" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-f3fe395 elementor-widget elementor-widget-alert" data-id="f3fe395" data-element_type="widget" data-widget_type="alert.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.17.0 - 08-11-2023 */
+.elementor-alert{padding:15px;border-left:5px solid transparent;position:relative;text-align:left}.elementor-alert .elementor-alert-title{display:block;font-weight:700}.elementor-alert .elementor-alert-description{font-size:13px}.elementor-alert button.elementor-alert-dismiss{position:absolute;right:var(--dismiss-icon-horizontal-position,10px);top:var(--dismiss-icon-vertical-position,10px);padding:3px;font-size:var(--dismiss-icon-size,20px);line-height:1;background:transparent;color:var(--dismiss-icon-normal-color,inherit);border:none;cursor:pointer;transition-duration:var(--dismiss-icon-hover-transition-duration,.3s)}.elementor-alert button.elementor-alert-dismiss:hover{color:var(--dismiss-icon-hover-color,inherit)}.elementor-alert button.elementor-alert-dismiss svg{width:var(--dismiss-icon-size,20px);height:var(--dismiss-icon-size,20px);fill:var(--dismiss-icon-normal-color,currentColor);transition-duration:var(--dismiss-icon-hover-transition-duration,.3s)}.elementor-alert button.elementor-alert-dismiss svg:hover{fill:var(--dismiss-icon-hover-color,currentColor)}.elementor-alert.elementor-alert-info{color:#31708f;background-color:#d9edf7;border-color:#bcdff1}.elementor-alert.elementor-alert-success{color:#3c763d;background-color:#dff0d8;border-color:#cae6be}.elementor-alert.elementor-alert-warning{color:#8a6d3b;background-color:#fcf8e3;border-color:#f9f0c3}.elementor-alert.elementor-alert-danger{color:#a94442;background-color:#f2dede;border-color:#e8c4c4}@media (max-width:767px){.elementor-alert{padding:10px}.elementor-alert button.elementor-alert-dismiss{right:7px;top:7px}}</style>		<div class="elementor-alert elementor-alert-danger" role="alert">
+			<span class="elementor-alert-title">New Feature found that needs to re-create or re-generate the audio files</span>
+							<span class="elementor-alert-description">I advised that if you want higher quality audio do not use it because it because it will degrade the quallity of audio.
+<br>
+In order Anti Synthesizer work, it needs to generate or create the audio again. This doesn't protect the old audio files that has already been distribute.</span>
+										<button type="button" class="elementor-alert-dismiss">
+					<i aria-hidden="true" class="far fa-times-circle"></i>					<span class="elementor-screen-only">Dismiss this alert.</span>
+				</button>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4e522159 elementor-widget elementor-widget-heading" data-id="4e522159" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Version</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4b1fe9f2 elementor-widget elementor-widget-text-editor" data-id="4b1fe9f2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Target: Phantasium Studio Silicon (P.S.S)</p><p>Version: Phantasium Studio Update 1</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-11ed8838 elementor-widget elementor-widget-heading" data-id="11ed8838" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">New</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-27b8d3a elementor-widget elementor-widget-text-editor" data-id="27b8d3a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li>PSAI Rail &#8211; Male PSAI</li><li>PSAI Fenrir &#8211; Female PSAI</li><li>Anti Synthesizer &#8211; </li><li>Server Base Requirements – In order to save space on our machine, Phantasium Studio Silicon will download PSAI, Models, or any requirement in our server.  The users have an option to save the contents downloaded or re-download it once it needs again this will save alot of disk space since Phantasium Studio Silicon takes alot of disk space.</li><li>Server Base Backup – Phantasium Studio Silicon now be backup in one push of a button. Rather than having a portable copy of Phantasium Studio Silicon. Portable Copy takes long to process, and it takes a lot of disk space. This update, reduce it by saving a stable version itself on our server. Can be restored by downloading your backup from our server.</li></ul><div>Batch 2</div><ul><li>Anti Synthesizer (Partially Implemented) &#8211; This reduce the chances the voices generated or created in Phantasium Studio Silicon being cloned by 3rd party software or AI.</li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-92a0afd elementor-widget elementor-widget-heading" data-id="92a0afd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Bug Fixed</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-22ddc8e elementor-widget elementor-widget-text-editor" data-id="22ddc8e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li>PSAI Luette &#8211; Mimic Emotion Fixed</li></ul>						</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HAi &#8211; Christmas 2023 Update</title>
+		<link>https://xenocx.github.io/elementor-639/</link>
+		
+		<dc:creator><![CDATA[Xeno]]></dc:creator>
+		<pubDate>Thu, 21 Dec 2023 12:41:08 +0000</pubDate>
+				<category><![CDATA[Hinachi Ai - News]]></category>
+		<guid isPermaLink="false">https://xenocx.github.io/?p=639</guid>
+
+					<description><![CDATA[Christmas 2023 Update Version Target: Hinachi Ai (HAi) Version: Hinachi Ai 3.0.2312 New BATCH 1 Pose Editor &#8211; Hinachi Ai can now illustrate a specific pose with or without a reference. By openning Pose Editor, you can customized, give reference, or create a pose you want. Server Base Requirements &#8211; In order to save space [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="639" class="elementor elementor-639">
+							<div class="elementor-element elementor-element-d5d5b54 e-flex e-con-boxed e-con e-parent" data-id="d5d5b54" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-c45f6ea elementor-widget elementor-widget-heading" data-id="c45f6ea" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Christmas 2023 Update</h2>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-0806039 e-flex e-con-boxed e-con e-parent" data-id="0806039" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-63168ca elementor-widget elementor-widget-heading" data-id="63168ca" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Version</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4d8a49f elementor-widget elementor-widget-text-editor" data-id="4d8a49f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Target: Hinachi Ai (HAi)</p><p>Version: Hinachi Ai 3.0.2312</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-4393363 elementor-widget elementor-widget-heading" data-id="4393363" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">New</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e843404 elementor-widget elementor-widget-text-editor" data-id="e843404" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li>Pose Editor &#8211; Hinachi Ai can now illustrate a specific pose with or without a reference. By openning Pose Editor, you can customized, give reference, or create a pose you want.</li><li>Server Base Requirements &#8211; In order to save space on our machine, Hinachi Ai will download diffusers, renderers, or any requirement in our server.  The users can has an option to save the contents downloaded or re-download it once it needs again this will save alot of disk space since Hinachi Ai takes alot of disk space.</li><li>Server Base Backup &#8211; Hinachi Ai now be backup in one push of a button. Rather than having a portable copy of Hinachi Ai. Portable Copy takes long to process and it takes alot of disk space. This update, reduce it by saving a stable version itself on our server. Can be restored by downloading your backup from our server.</li><li>Added Lora Support</li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-215ab6b elementor-widget elementor-widget-heading" data-id="215ab6b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Improved</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-27e0ee3 elementor-widget elementor-widget-text-editor" data-id="27e0ee3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li>Illustration Speed has been Improved</li></ul>						</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HAi &#8211; Oct 2023 Update</title>
+		<link>https://xenocx.github.io/hai-oct-2023-update/</link>
+		
+		<dc:creator><![CDATA[Xeno]]></dc:creator>
+		<pubDate>Sat, 14 Oct 2023 16:15:53 +0000</pubDate>
+				<category><![CDATA[Hinachi Ai - News]]></category>
+		<guid isPermaLink="false">https://xenocx.github.io/?p=703</guid>
+
+					<description><![CDATA[October Update Version Target: Hinachi Ai Version: Hinachi Ai 2.0 Update 2310 Changes BATCH 1 Hinachi Ai will be no longer public available due to inefficient budget to maintain. Hinachi Ai will become a private tool for Xeno Gen Projects until further notice.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="703" class="elementor elementor-703">
+							<div class="elementor-element elementor-element-63e3e856 e-flex e-con-boxed e-con e-parent" data-id="63e3e856" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1f340eea elementor-widget elementor-widget-heading" data-id="1f340eea" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">October Update</h2>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-f171d4d e-flex e-con-boxed e-con e-parent" data-id="f171d4d" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1b39c1d7 elementor-widget elementor-widget-heading" data-id="1b39c1d7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Version</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4f922fda elementor-widget elementor-widget-text-editor" data-id="4f922fda" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Target: Hinachi Ai</p><p>Version: Hinachi Ai 2.0 Update 2310</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5ca36ce8 elementor-widget elementor-widget-heading" data-id="5ca36ce8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Changes</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a5bf097 elementor-widget elementor-widget-text-editor" data-id="a5bf097" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li>Hinachi Ai will be no longer public available due to inefficient budget to maintain. Hinachi Ai will become a private tool for Xeno Gen Projects until further notice.</li></ul>						</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HAi &#8211; Jun 2023 Update</title>
+		<link>https://xenocx.github.io/elementor-714/</link>
+		
+		<dc:creator><![CDATA[Xeno]]></dc:creator>
+		<pubDate>Thu, 22 Jun 2023 05:27:14 +0000</pubDate>
+				<category><![CDATA[Hinachi Ai - News]]></category>
+		<guid isPermaLink="false">https://xenocx.github.io/?p=714</guid>
+
+					<description><![CDATA[Jun 2023 Update Version Target: Hinachi Ai Version: Hinachi Ai 2.0.2306 New BATCH 1 Hinachi Ai 2.0 Initial Release New GUI Improved BATCH 1 AI Calculation has been Improved Changed BATCH 1 Hyper Arts &#8211; v9.5 will be used in Hinachi Ai 2.0 Renderers]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="714" class="elementor elementor-714">
+							<div class="elementor-element elementor-element-7d61f7f1 e-flex e-con-boxed e-con e-parent" data-id="7d61f7f1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-1629c506 elementor-widget elementor-widget-heading" data-id="1629c506" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Jun 2023 Update</h2>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-67a20e6b e-flex e-con-boxed e-con e-parent" data-id="67a20e6b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-108042cd elementor-widget elementor-widget-heading" data-id="108042cd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Version</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-283dc1bc elementor-widget elementor-widget-text-editor" data-id="283dc1bc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Target: Hinachi Ai</p><p>Version: Hinachi Ai 2.0.2306</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-7c41eaf5 elementor-widget elementor-widget-heading" data-id="7c41eaf5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">New</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-667bbd6c elementor-widget elementor-widget-text-editor" data-id="667bbd6c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li>Hinachi Ai 2.0 Initial Release</li><li>New GUI</li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-7030bcd elementor-widget elementor-widget-heading" data-id="7030bcd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Improved</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ee7aa81 elementor-widget elementor-widget-text-editor" data-id="ee7aa81" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li>AI Calculation has been Improved</li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f3d85b7 elementor-widget elementor-widget-heading" data-id="f3d85b7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Changed</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cbea7af elementor-widget elementor-widget-text-editor" data-id="cbea7af" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li>Hyper Arts &#8211; v9.5 will be used in Hinachi Ai 2.0 Renderers</li></ul>						</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HAi &#8211; Dec 2022 Update</title>
+		<link>https://xenocx.github.io/hai-dec-2022-update/</link>
+		
+		<dc:creator><![CDATA[Xeno]]></dc:creator>
+		<pubDate>Thu, 22 Dec 2022 05:43:23 +0000</pubDate>
+				<category><![CDATA[Hinachi Ai - News]]></category>
+		<guid isPermaLink="false">https://xenocx.github.io/?p=729</guid>
+
+					<description><![CDATA[Dec 2022 Update Version Target: Hinachi Ai Version: Hinachi Ai 1.0.2212 Migrated BATCH 1 HinachiAi Diffusers, Renderers, Scripts -&#62; CEL Engine NORX 4038s, NORX Engine -&#62; CEL Engine New BATCH 1 HAi Zyper 1041-V Renderer CEL Engine &#8211; Successor of Hantom Engine that support advance features BATCH 2 HAi &#8211; Dynamic Diffuser HAi &#8211; Twilight [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="729" class="elementor elementor-729">
+							<div class="elementor-element elementor-element-6e6fc676 e-flex e-con-boxed e-con e-parent" data-id="6e6fc676" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-6be7bf69 elementor-widget elementor-widget-heading" data-id="6be7bf69" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Dec 2022 Update</h2>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-12b46fae e-flex e-con-boxed e-con e-parent" data-id="12b46fae" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-5ec5e36c elementor-widget elementor-widget-heading" data-id="5ec5e36c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Version</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4b538c0d elementor-widget elementor-widget-text-editor" data-id="4b538c0d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Target: Hinachi Ai</p><p>Version: Hinachi Ai 1.0.2212</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1c05618 elementor-widget elementor-widget-heading" data-id="1c05618" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Migrated</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-09712d0 elementor-widget elementor-widget-text-editor" data-id="09712d0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkhpbmFjaGlBaSUyMERpZmZ1c2VycyUyQyUyMFJlbmRlcmVycyUyQyUyMFNjcmlwdHMlMjAtJTNFJTIwQ0VMJTIwRW5naW5lJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMzRiNTU3MDUzYjRlNDEyNWIzYzczMzNkMTY3MzgzMGQlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI1YmFlMmIwMDVjNmI0ODUwYWQxMmEzYjNiNTMxZjI0YiUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmYwODFmMWNiZmFmMjQ1MDJiNmVhODI2NGM2ZTFlYTg3JTIyJTdE">HinachiAi Diffusers, Renderers, Scripts -&gt; CEL Engine</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMk5PUlglMjA0MDM4cyUyQyUyME5PUlglMjBFbmdpbmUlMjAtJTNFJTIwQ0VMJTIwRW5naW5lJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMmNhM2U3ZjUxZTU2NGIwODllZTM2MzFjYzRmYzY0NDUlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJlZWU2NDY0MDU0MjU0YWIyYTBiNjI5NWQxMDZhZmI4ZSUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjljZWZmNmE1NmYxNzRjYTE4ZjRkYjc1MjYzZjUyZmQ4JTIyJTdE">NORX 4038s, NORX Engine -&gt; CEL Engine</span></li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-3403face elementor-widget elementor-widget-heading" data-id="3403face" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">New</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-499bddd4 elementor-widget elementor-widget-text-editor" data-id="499bddd4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkhBaSUyMFp5cGVyJTIwMTA0MS1WJTIwUmVuZGVyZXIlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJhZTc2NmU1Mzk1N2U0ZDJiODg5YjM3MGMyZjBmYWEzYiUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmFlNGMwYTZlZTQ0ZTQwZjRhNTEzZjMxZjE4MzUyNzBiJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNTM4YzJjYjczMGE1NDQzNTk5OGY4NWFkN2I3OTE0OWMlMjIlN0Q=">HAi Zyper 1041-V Renderer</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMiU1RCUyMENFTCUyMEVuZ2luZSUyMC0lMjBTdWNjZXNzb3IlMjBvZiUyMEhhbnRvbSUyMEVuZ2luZSUyMHRoYXQlMjBzdXBwb3J0JTIwYWR2YW5jZSUyMGZlYXR1cmVzJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNmZjYzU1Yzk0NzFmNDQ4NTg2MzA2ZjNhNmEzNzU2YzMlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI0NjNmMmM1MDQ2N2I0MTVmOTdjYmFmNThhOTMwMmU2YSUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjQ3ODRjZGUxYjRkYzRmNjM4NGQ4ZTZhOTRhYzg4NTM2JTIyJTdE">CEL Engine &#8211; Successor of Hantom Engine that support advance features</span></li></ul><p>BATCH 2</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkhBaSUyMC0lMjBEeW5hbWljJTIwRGlmZnVzZXIlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIzN2ZiNjU4MTA5ZGI0OTI2YWYyNWFlMzFmYmI0MmU1NiUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjdiYjRiMWU1OTE5YTQ5NGVhNjBjNTc1OTBlN2Y2MGQ0JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyOGE3ZWI1YjkyYjA5NDkyYmI3NWM0ODdiMzUzZTk3N2QlMjIlN0Q=">HAi &#8211; Dynamic Diffuser</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMiUyMEhBaSUyMC0lMjBUd2lsaWdodCUyMDIuMCUyMERpZmZ1c2VyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNzU5NmFmNjM2ZTEzNDExOGFlNTY5YThmODhkNWI3YzclMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJlMDMyY2I4ZDExNTY0MThlYmYxNWUzZmI2NGU5YTE0ZSUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjA3YmRkZTg5NmY4NDRiYWY4NTg1MGU4ZTAxOGU0ZDg4JTIyJTdE">HAi &#8211; Twilight 2.0 Diffuser</span></li></ul><p>BATCH 3</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkFkZGVkJTIwSHlwZXIlMjBBcnRzJTIwLSUyMEFyYyUyMDQlMjB2OS41JTIwZm9yJTIwTk9SWCUyMDUwNDJzJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyYWQ0NGMyZTRiZWE4NDA5MWIwMzgyNDBiZDJlNzYzNmYlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIzNjJhMWFkMTIzODA0MzExOTJkNGNhOWExNGZiNzYyOSUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjM2NWRjYzE3NWU0ZjQ1YmQ4ZDZiODYyYTE1NzRlMGQwJTIyJTdE">Added Hyper Arts &#8211; Arc 4 v9.5 for NORX 5042s</span></li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-65e5d46 elementor-widget elementor-widget-heading" data-id="65e5d46" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Improved</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e939efc elementor-widget elementor-widget-text-editor" data-id="e939efc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 2</p><ul><li>Image Allusion v2.0</li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-9aac987 elementor-widget elementor-widget-heading" data-id="9aac987" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Changed</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9609440 elementor-widget elementor-widget-text-editor" data-id="9609440" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkRlZmF1bHQlMjBBSSUyMENvcnJlY3Rpb24lMjAtJTNFJTIwWnlwZXIlMjAxMDQxLVYlMjBBSSUyMENvcnJlY3Rpb24lMjB0byUyMGJlJTIwdXNlZCUyMGluJTIwYWxsJTIwdGhlJTIwcmVuZGVyZXJzJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyOTE5MTQwMDE4YmQwNDA3OWE4NGYzZDAzODg1MGYzYzMlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI0YWNiOWE2NmMzODk0NWEzYjZmMjk4ZGIzYjE2Y2I1OCUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjkyYTQ4MWFlY2YyYjQxMzc4ZGMzNTkwZjNlODU1YzRiJTIyJTdE">Default AI Correction -&gt; Zyper 1041-V AI Correction to be used in all the renderers</span></li></ul><p>BATCH 2</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkNvbnRlbnQlMjBQb2xpY3klMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJmYjM2MjQ0MmZiNTU0YzAwYWMxOWMzNThhNzc2YzU4YiUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmNmNWFiMmU0YjM0NDRhNTU4Y2Q0OTIwODI2ZGM4M2NkJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMzMwZDlmMWQ2NDQ3NGQyNTljZGMxNjIyZjYyNzc5Y2ElMjIlN0Q=">Content Policy</span></li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c2afcd8 elementor-widget elementor-widget-heading" data-id="c2afcd8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Bug Fixed</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e061f15 elementor-widget elementor-widget-text-editor" data-id="e061f15" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlByb21wdCUyMEVuaGFuY2VyJTIwZm9yJTIwQ0VMJTIwRW5naW5lJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNmYwNzI4ZTY2Nzg0NDA5MjlmZGE3NWE4ZGJjZDQ4OGYlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI2ZmRiMDllZTVjNWY0MTJlOTU1MmU0ZDA1NjY3NGZjZSUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjNhN2UzZmYyZjY1ZDRiMWU4Zjk0Y2MxN2U4YzE1NzNjJTIyJTdE">Prompt Enhancer for CEL Engine</span></li></ul>						</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HAi &#8211; Nov 2022 Update</title>
+		<link>https://xenocx.github.io/elementor-746/</link>
+		
+		<dc:creator><![CDATA[Xeno]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2022 06:24:53 +0000</pubDate>
+				<category><![CDATA[Hinachi Ai - News]]></category>
+		<guid isPermaLink="false">https://xenocx.github.io/?p=746</guid>
+
+					<description><![CDATA[Nov 2022 Update Version Target: Hinachi Ai Version: Hinachi Ai 1.0.2211 New BATCH 1 Image Allusion added as new feature. Emphasizer added as new feature. TensorFlow Compatibility BATCH 2 HAi &#8211; Hantom 2100K Renderer HAi &#8211; Twilight Diffuser HAi &#8211; NORX 4037s Renderer BATCH 3 Quantization is available in Hantom 2100K and above Composition Prompt [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="746" class="elementor elementor-746">
+							<div class="elementor-element elementor-element-1cfb8f02 e-flex e-con-boxed e-con e-parent" data-id="1cfb8f02" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-4df35e5d elementor-widget elementor-widget-heading" data-id="4df35e5d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Nov 2022 Update</h2>		</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-56533a6a e-flex e-con-boxed e-con e-parent" data-id="56533a6a" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-50b46bb1 elementor-widget elementor-widget-heading" data-id="50b46bb1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Version</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-722539a4 elementor-widget elementor-widget-text-editor" data-id="722539a4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Target: Hinachi Ai</p><p>Version: Hinachi Ai 1.0.2211</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5b060624 elementor-widget elementor-widget-heading" data-id="5b060624" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">New</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3dbf5af9 elementor-widget elementor-widget-text-editor" data-id="3dbf5af9" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li>Image Allusion added as new feature.</li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkVtcGhhc2l6ZXIlMjBhZGRlZCUyMGFzJTIwbmV3JTIwZmVhdHVyZS4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIzZWRmMmQxZTFjNTU0N2VmYmM5ZWI4NWEyYzg2ZjEyYSUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmRhOGYyYzFlYmJmYTQxODY4ZTYwYTRmYmNlODQwYThkJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyZThlZDI2MmYzODEyNGEwNWEzNGU1MDE3NWY3ODIyMTklMjIlN0Q=">Emphasizer added as new feature.</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlRlbnNvckZsb3clMjBDb21wYXRpYmlsaXR5JTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyZjgxYzE3NzVmMjdiNDQxOWE0MzlkZmEzN2JlMmU0ZjIlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI3Y2U0OGVjYjExZDI0YmExYTA1ZGNjNWNhYTQyOTZhNSUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmM3N2VjNzg3ZjFhZTQxMTE5ZWUyMmRmMGFkNTFjMTNiJTIyJTdE">TensorFlow Compatibility</span></li></ul><p>BATCH 2</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkhBaSUyMC0lMjBIYW50b20lMjAyMTAwSyUyMFJlbmRlcmVyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyZTExZjhhNzY4MTQ0NDllMmI1ZmI3ZTY3NWEzOGEyMWUlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJjY2VhNzQ1YjVjMDE0YTAxYmUzMjlhMTViODE5ZTMxYyUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmQ3NTBmMGZiOTUwOTQ0ZjY4NzE2NWZjZGFkYmY4NmE5JTIyJTdE">HAi &#8211; Hantom 2100K Renderer</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkhBaSUyMC0lMjBUd2lsaWdodCUyMERpZmZ1c2VyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyYTI0MGQ1Y2Y5OGQwNDdhYTlhNTlhYjk2NTViM2ZmNjMlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJmMjdhODc5MDJjODg0MmRkYjlkYmJhMDljMGQ2YWY4ZSUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjI2YmJkNGFhN2RhYjQzM2I4ZDEwMzgzOTBhZmY0NDA1JTIyJTdE">HAi &#8211; Twilight Diffuser</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkhBaSUyMC0lMjBOT1JYJTIwNDAzN3MlMjBSZW5kZXJlciUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjc1NGQ4NTJkOGMxYzQ0NzFiMWNmMGNhNmExOTQ1YzdlJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyYTYxYTc2YjE5MDJiNGMzOTg4YTJkM2QzM2E0N2YzNTklMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIwYjI4NWJjZjQ4NmM0NGQ1YTgzYTVkNGFiODJlOTNmYyUyMiU3RA==">HAi &#8211; NORX 4037s Renderer</span></li></ul><p>BATCH 3</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlF1YW50aXphdGlvbiUyMGlzJTIwYXZhaWxhYmxlJTIwaW4lMjBIYW50b20lMjAyMTAwSyUyMGFuZCUyMGFib3ZlJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyY2EzZjZkZDY4MTQ1NDM5YzhlOTE5MTAzZTY0NDhkNmUlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJiNjk4OWU2ODVkZTU0MTZiYmY2NjI1Y2Q4YzVhM2UwYiUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjZjZWNmNmFhYTkyYjQ5Nzc4N2E0NGNhZjg3OTA4YjA0JTIyJTdE">Quantization is available in Hantom 2100K and above</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkNvbXBvc2l0aW9uJTIwUHJvbXB0JTIwaXMlMjBhdmFpbGFibGUlMjBpbiUyMEhhbnRvbSUyMDIxMDBLJTIwYW5kJTIwYWJvdmUlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIxMDMyOTBjM2QzNWE0YmMzYjM3MjgzMDVhYzM5NzE2OSUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjIwZmE2ZDJhODRjYjQ1MGJiMDA3YjIyODcwODcyZDlkJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyYzFhN2YyZjhkNThjNDk1ODgyMGU4MmI3NTNlNzY2M2UlMjIlN0Q=">Composition Prompt is available in Hantom 2100K and above</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlF1YW50aXphdGlvbiUyMGFzJTIwbmV3JTIwZmVhdHVyZSUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmRmMDkzMzBmNDAwNzQ1MmQ5YjY4ZGUwMjY0NTQ1NjU2JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyY2NlNmFhZGYxMzU3NDZmNmIxODUzNTRkNTczYzdkMTAlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJjNWQyZGZiMzgzMjU0Nzg1ODdkMjVhOTRhOTdhZWZhMSUyMiU3RA==">Quantization as new feature</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlByb21wdCUyMEVuaGFuY2VyJTIwYXMlMjBuZXclMjBmZWF0dXJlJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyZDQzNmM5MDZhNWZkNDUyMDk4MmMyYzg1M2NjNWJmNDQlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJiMjkxNWU2ZTEyYjg0NjY2OGQ0OGEwNGI2NzRkMWM3NiUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmUyODRiN2NlYWY3NjQzZWZhNjI1YmIxM2IxNjhmZDQ1JTIyJTdE">Prompt Enhancer as new feature</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkNlbnNvcnNoaXAlMjBhZGRlZCUyMGFzJTIwbmV3JTIwZmVhdHVyZSUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjkwMzg0ZmJiMjUzZjRiMzA5NTNhZTgyMmQyYzc2OTU1JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyYTJiYTAwMjNmMzNhNDg4YWE0OThlZTVkZWRmMGIwMTUlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI4MTI0ZmUzMTQ1Yzc0OTQ5OGE1NTI2MThkNGU1N2EyMyUyMiU3RA==">Censorship added as new feature</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkNvbXBvc2l0aW9uJTIwUHJvbXB0JTIwYWRkZWQlMjBhcyUyMG5ldyUyMGZlYXR1cmUlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI4MDRhNWI0NTRhYmE0ZGMzYmYxMzhiNDRjOWYxMDk0NCUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjM2ZGY1ZWE3YWE2NTQ2NjI4NTkyYWEyNTgxNzI5MDBjJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyODIxZjM3NWIxOGY3NDcyNzg3YmI0YTg2YWU2ZDMwYmMlMjIlN0Q=">Composition Prompt added as new feature</span></li></ul><p>BATCH 4</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMiUyMENlbGVzdGlhbCUyMFBpeGl2JTIwRmFuJTIwQm94JTIwQ2FyZCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjhmMWUyN2VkZDdlOTQwNTk4YTFmYjRhMTc3YjM1MmYxJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNzU1ZTdlNjIzMDZmNDc4NmIwZTNiNjI4ODNmZjk3ZDYlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIyYjA1N2U2MGRhZTU0MGNjYWIwMDE1NDdmNTc0NDEzNiUyMiU3RA=="> Celestial Pixiv Fan Box Card</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMiUyMENoZXJ1YmljJTIwUGl4aXYlMjBGYW4lMjBCb3glMjBDYXJkJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNGI4ZmY5Mjk3NGJjNDZkNjgyNDJhYTIwZGM2ZDcwY2ElMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIxMjgwNTM2YThlNWE0MzRjODliYjUzNDRlNjY0NDUwYyUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjU1ZDMxMzkyZjczNDQ2MGU5YmQ1ODMzMTA1NjExNDlkJTIyJTdE"> Cherubic Pixiv Fan Box Card</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkFydCUyMENvbW1pc3Npb24lMjBDYXJkJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMGZhMmJlODdiMDU0NDBkZTg2MTAxMmQ1OTlkY2ZjMjElMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIxYmYyYTU3YWQ5Yjg0ZTFhOTNiOTE3M2RkYzQ2ZDlmYyUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjYwYjJlY2UyNDA5MDQ0YjI4ZGRiYjRlYmExNWVhODhhJTIyJTdE">Art Commission Card</span></li><li>Render Focus added as new feature in NORX 4038s, Zyper 1041-V, NILU 2031s and above</li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-1fa85dbc elementor-widget elementor-widget-heading" data-id="1fa85dbc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Improved</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2cc5f4ba elementor-widget elementor-widget-text-editor" data-id="2cc5f4ba" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmlubGluZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaW5rJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMnJlZiUyMiUzQSU3QiUyMmtpbmQlMjIlM0ElMjJwYWdlJTIyJTJDJTIycGFnZSUyMiUzQSUyMmZOY2lwSm9NeFRINjVtdFZlQ1BkJTIyJTdEJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJDb2xvciUyMEVuaGFuY2VtZW50JTIwMS4wJTIwLSUzRSUyMENvbG9yJTIwRW5oYW5jZW1lbnQlMjAxLjElMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJjN2I4ZGUxMTdmY2E0ZGQ4YTAxODk2MmU0MTkwNmU0ZCUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmQ5OGE5ODJlMDdlOTRiYThhZjhjODMxZTllOTc1NGI4JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyZTc2NDlkNDU2YTlhNDMzZWE2MTIwNWQ4MTIzOTM0ZGQlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIyZTUzNWViNjM4Zjc0ODE1ODk0M2JiNzlmNDUxN2Q0NSUyMiU3RA==">Color Enhancement 1.0 -&gt; Color Enhancement 1.1</span></li></ul><div>BATCH 2</div><ul><li><span style="white-space: pre;" data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkVtcGhhc2l6ZXIlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI0ODFkMThhYzJkYjA0YTA1YTQ3ZjQ5OWI0YWRjOWJhMSUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmM1NWYwNjgyNDQ0OTQzNzJhZTljNzM4YTA4NGUwY2Q0JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNTNlMjcxNjE4MzgzNDQ4YThmNTUwN2ZkZmE1ZWY1NDAlMjIlN0Q=">Emphasizer</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkNvbG9yJTIwRW5oYW5jZW1lbnQlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI3MmJjMWIzMDFiOWQ0ZGE5OTYyNjY5OGI1MTkwMjliNSUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjU4M2EyMDViOGU1NzQ4ZDdiMTI2MzlkOTUwZTQ2ZGRhJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyZTYyMjBhMWI4YjE1NDg2ODliY2E3ZjkwMjcxYzhkNGYlMjIlN0Q=">Color Enhancement</span></li><li>Color Enhancement v1.1 -&gt; Color Enhancement 1.2</li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlNlY3VyaXR5JTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNWRkNGNjM2M3NGIyNDkxNzkyYWY0NDU4M2IxOGQ0MTAlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI0ODBhMTIxZjgxMTM0ZTQyYTc0MWJmOTJlYzI0YzcxZSUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjgyNmY3OGQ3OTkwZjRjNzM5OGYxOWFlM2YxZGRkOTI0JTIyJTdE">Security</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlVwc2NhbGVyJTIwUGVyZm9ybWFuY2UlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJhODU5ZjgxYmJlYmY0ZjljOTZlNGM2MzFiYmI0OGY4NyUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmUwZTI2MTY5M2QyMTRjZmE4NDAwMTUwNjY3MzQxMWU4JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMjhjZDUxYjRiOGZhNDMxYWIwOGZmOGM5MmU5YmIwN2QlMjIlN0Q=">Upscaler Performance</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMiUyMFByb21wdHMlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJiMzVlYzNhNmVhMzg0MTBmOGEyN2IyYzE4MzUwMThiNyUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjM4YjkwMTQzOTE1MTRhM2M4NjA3NjQ5ZTZlZGUyMDYzJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNDMxOWQ5Y2E2ZjI3NDMwOGI5Zjg3MTljYzk1OWFmYjUlMjIlN0Q="> Prompts</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlJlbmRlcmluZyUyMGElMjBzaW1wbGUlMjBjaGFyYWN0ZXIlMjB3aWxsJTIwYXV0b21hdGljYWxseSUyMHJlbmRlciUyMGNvbXBsZXglMjB2YXJpYW50cyUyMG9mJTIwdGhlJTIwY2hhcmFjdGVyJTIwd2hpY2glMjBnaXZlcyUyMG1vcmUlMjBkZXRhaWwlMjBhbmQlMjBxdWFsaXR5JTIwb2YlMjB0aGUlMjBvdXRwdXQlMjB1bmxlc3MlMjBzcGVjaWZpZWQuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNjEyYzk2YjY3OTVjNDQ1Yzg2MzA0ZTUzYzhiYjE1YjIlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJmMzIyMmNmZjhjMjQ0NTMwOTQyYmJhN2RlYzFmNTc4MyUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmIyOGFkOWQ0OTczMTRkZWU5ODE0N2E0ZTY5NjIyZGNjJTIyJTdE">Rendering a simple character will automatically render complex variants of the character which gives more detail and quality of the output unless specified.</span></li></ul><p>BATCH 3</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkhpbmFjaGklMjBBaSUyMFVJJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMzYwODRiMjA4YTJkNDg3MGFhZWE4OGRhNGM3MWQzODclMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJiNmM1YmUxNWM5Mzc0MjY4OGYyZWFkNWFhOTYwZjRiNCUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjgwNmIyNTE1N2Y0NzRlMTVhNzBiNTQyNzUzZTZkOTNlJTIyJTdE">Hinachi Ai UI</span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkFsbCUyME5PUlglMjBhbmQlMjBOSUxVJTIwcmVuZGVyaW5nJTIwaGF2ZSUyMGJlZW4lMjBpbXByb3ZlZCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjY0YmRlMzJjM2U1MzRjOThhOWMzOTRhZTlmZjljNzE0JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyYWEwMTYwMDRiZTg4NDBkZWJkMGU4ZTdiZGJhYTM1ZDAlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIwZWRhZmMyMGUwNDg0NGY1OWRmZGFjYjdmMzhhMGEzMSUyMiU3RA==">All NORX and NILU rendering have been improved</span></li><li>Color Enhancement 1.2 -&gt; Color Enhancement 1.3 in NORX 4037s and above</li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-42927101 elementor-widget elementor-widget-heading" data-id="42927101" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Changed</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2e18ca46 elementor-widget elementor-widget-text-editor" data-id="2e18ca46" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 3</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMiUyME5PUlglMjA0MDM3cyUyMHRvJTIwY29tcGFyZSUyMHdpdGglMjBIYW50b20lMjAyMTAwSyUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmViYzU2YTg1OWZhNjQ5ZThhNDFmZWI3NjFlMjI2NDk4JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyOTg1ZWQ1NzM4NmU1NGUyNWE2YzE0ZGY4OGMzNWE5NzklMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJlYmRmNzU4ODU0Zjk0NDJhOTRmOWNkNTU4YjEwYzE0NCUyMiU3RA=="> NORX 4037s to compare with Hantom 2100K</span></li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-791c91dd elementor-widget elementor-widget-heading" data-id="791c91dd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Bug Fixed</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-35bb6084 elementor-widget elementor-widget-text-editor" data-id="35bb6084" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMk5PUlglMjAyMDE3JTIwLSUyMDMwMjJzJTIwQ29sb3IlMjBFbmhhbmNlbWVudCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmZkNmE0MjZiMzU0YzQ4Nzc5MDQxYjM1NmE2MGRmZGU4JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyZjc1YWJkYjcwZGEyNGNiMDk5ZWQxODViZDk4ZWQ4NTklMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI1ZTJlMjFiNTZmY2I0ZDI5Yjk0MWNlZmJhODU5MmYyMCUyMiU3RA==">NORX 2017 &#8211; 3022s Color Enhancement</span></li></ul><p>BATCH 2</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkNvbG9yJTIwRW5oYW5jZW1lbnQlMjBJbXByb3ZlbWVudCUyMGZhaWxlZCUyMHRvJTIwb3ZlcndyaXRlJTIwd2l0aCUyMHRoZSUyMGRlZmF1bHQlMjBDb2xvciUyMEVuaGFuY2VtZW50LiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjI4YTQ0NWMxZDA0NTQxMWJhMWY1NzdlYWUxY2M2ODdjJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyN2Q5NDJmOGZmMmVmNDcyMThjMjNjNjVhYzk4NGVjZWYlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJiYzk3MTU5ODdkN2Q0NjlhYTE1NGIzOWYxNzgzNTllMSUyMiU3RA==">Color Enhancement Improvement failed to overwrite with the default Color Enhancement.</span></li></ul>						</div>
+				</div>
+				<div class="elementor-element elementor-element-735f78c elementor-widget elementor-widget-heading" data-id="735f78c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Misc</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-59cfcdd elementor-widget elementor-widget-text-editor" data-id="59cfcdd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>BATCH 1</p><ul><li><span data-key="76e7a6e12aa3403f9aa5254c714fb942">Hinachi Ai availability on </span><a class="css-175oi2r r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1471scf" href="https://www.pixiv.net/en/users/87513818" data-rnwi-handle="link" data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkhpbmFjaGklMjBBaSUyMGF2YWlsYWJpbGl0eSUyMG9uJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlMkMlMjJzZWxlY3Rpb25zJTIyJTNBJTVCJTVEJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMjJkZjQyNzMzZjMwNDc4Mzg3ODlhNDQ2Yjg0YmY2ZTElMjIlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJpbmxpbmUlMjIlMkMlMjJ0eXBlJTIyJTNBJTIybGluayUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJyZWYlMjIlM0ElN0IlMjJraW5kJTIyJTNBJTIydXJsJTIyJTJDJTIydXJsJTIyJTNBJTIyaHR0cHMlM0ElMkYlMkZ3d3cucGl4aXYubmV0JTJGZW4lMkZ1c2VycyUyRjg3NTEzODE4JTIyJTdEJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJQaXhpdiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjFlYjUyOWU1MjI4MDQ1ZWM5Yjk4YmQzZmM4MDA5MzE0JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyYmM4NzM3NTUxYzJlNDQzNjk0NGI4MTJhY2EzOWRiNDYlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI1YjQ0ODVmM2MwZTg0OGNhOTcyOWNmOGIzYjRiN2ZhYiUyMiU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMmQ1OThjMGE1OGJlMDQ3ODliYzlkZGQ2YWU1NjA2MjQ3JTIyJTdE"><span class="r-crgep1" data-key="bc8737551c2e4436944b812aca39db46" data-rnwilink--njhh6i-="true" data-rnwilink--fvlm2j-1ddef8g-hover="true" data-rnwi-handle="nearest"><span data-key="1eb529e5228045ec9b98bd3fc8009314">Pixiv</span></span></a></li></ul><p>BATCH 2</p><ul><li><span data-key="5500029bbb9f4d9e9e7d247947a16cb8">Hinachi Ai availability on </span><span class="r-crgep1" data-key="2621567a787e4ff8bb1429f649618574" data-rnwilink--njhh6i-="true" data-rnwilink--fvlm2j-1ddef8g-hover="true" data-rnwi-handle="nearest"><span data-key="4a4e263ad70e4d5b964b9cdc6dd1a407">Fiverr</span></span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkRvY3VtZW50YXRpb24lMjBTdW1tYXJpemVkISUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjA2OTMyZGNjZmRlODRhOTZhZDJiYmFjNmEwMWNmNWEyJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNmRmYWY4MWY0YTRjNDY3ODhmOTVjNWJiZjI5NzYwYzYlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJiYjkxYjFhZWYyYzM0YTMwYjIxZTQ2YjJiZmY1OGJiOSUyMiU3RA==">Documentation Summarized!</span></li></ul><p>BATCH 3</p><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMiU1Qk1JU0MlNUQlMjBOSUxVJTIwaXMlMjBub3clMjBwYXJ0JTIwb2YlMjBOT1JYLiUyMCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjUyYTE3N2IzMjViYjQxZWU4NmE4YjY1ZjZjODc0MzJiJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMGQ4YjM1MzI4NmZkNGYxODk3NTMxZjcxY2JjYmVjZTAlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjI1M2NkZGNjMGIwMWQ0ODUzODk2NmQyM2ZhMmQ0NmQyMSUyMiU3RA==">[MISC] NILU is now part of NORX. </span><ul><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkl0JTIwbm93JTIwc2hhcmVzJTIwc2FtZSUyMHVwZGF0ZXMlMjBhbmQlMjBjaGFuZ2VzLiUyMCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjRmZjlhYjQxYjQ0NzQ5YmViYmMxMjQyZTAyN2NiYjY0JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyY2FiNTIyZmU2N2Q3NDBiM2FiMTA3MDhkZmZiOWYzMzQlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIyYTEyZDcyNTRkZmU0MWUzOTE2ODdiMDZmZmY3ZTRhOSUyMiU3RA==">It now shares same updates and changes. </span></li><li><span data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkhpbmFjaGklMjBBaSUyMHRvdGFsJTIwZmlsZSUyMHNpemUlMjBoYXZlJTIwYmVlbiUyMGRlY3JlYXNlLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjMyMjFmYjBhNmNjMTRkNWI4ODIxZTg1NTQ0MmRhYzBlJTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyNjRlMGQzNzIzOGZlNGE0Nzk0MzljYThhOTU1MDllNGIlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjJjMTVhMGZlMzJjYjg0NDE5OTI4NGVkMmI3ZWVlM2RjNiUyMiU3RA==">Hinachi Ai total file size have been decrease.</span></li></ul></li></ul>						</div>
+				</div>
+					</div>
+				</div>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hinachi Ai</title>
+		<link>https://xenocx.github.io/hinachi-ai/</link>
+		
+		<dc:creator><![CDATA[Xeno]]></dc:creator>
+		<pubDate>Fri, 28 Oct 2022 21:26:38 +0000</pubDate>
 				<category><![CDATA[A.I.]]></category>
 		<guid isPermaLink="false">https://xenocx.github.io/?p=20</guid>
 
@@ -41,18 +698,35 @@
 				</div>
 				<div class="elementor-element elementor-element-a0b85d0 elementor-widget elementor-widget-image" data-id="a0b85d0" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.17.0 - 08-11-2023 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img fetchpriority="high" decoding="async" width="1900" height="400" src="https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2.png" class="attachment-full size-full wp-image-94" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2.png 1900w, https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2-300x63.png 300w, https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2-1024x216.png 1024w, https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2-768x162.png 768w, https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2-1536x323.png 1536w" sizes="(max-width: 1900px) 100vw, 1900px" />															</div>
+															<img loading="lazy" decoding="async" width="1900" height="400" src="https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2.png" class="attachment-full size-full wp-image-94" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2.png 1900w, https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2-300x63.png 300w, https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2-1024x216.png 1024w, https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2-768x162.png 768w, https://xenocx.github.io/wp-content/uploads/2023/12/109364813_p1_master1200-2-1536x323.png 1536w" sizes="(max-width: 1900px) 100vw, 1900px" />															</div>
 				</div>
 				</div>
 		<div class="elementor-element elementor-element-45c55f1 e-con-full e-flex e-con e-parent" data-id="45c55f1" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}" data-core-v316-plus="true">
 		<div class="elementor-element elementor-element-ac7bee5 e-con-full e-flex e-con e-child" data-id="ac7bee5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-b0a5359 e-n-tabs-mobile elementor-widget elementor-widget-n-tabs" data-id="b0a5359" data-element_type="widget" data-widget_type="nested-tabs.default">
+				<div class="elementor-widget-container">
+					<div class="e-n-tabs" data-widget-number="185" aria-label="Tabs. Open items with Enter or Space, close with Escape and navigate using the Arrow keys.">
+			<div class="e-n-tabs-heading" role="tablist">
+							<button id="e-n-tabs-title-1851" class="e-n-tab-title" aria-selected="true" data-tab-index="1" role="tab" tabindex="0" aria-controls="e-n-tab-content-1851" style="--n-tabs-title-order: 1;">
+				<span class="e-n-tab-icon">
+														</span>
+				<span class="e-n-tab-title-text">
+					Home				</span>
+			</button>
+					<button id="e-n-tabs-title-1852" class="e-n-tab-title" aria-selected="false" data-tab-index="2" role="tab" tabindex="-1" aria-controls="e-n-tab-content-1852" style="--n-tabs-title-order: 2;">
+				<span class="e-n-tab-icon">
+														</span>
+				<span class="e-n-tab-title-text">
+					News				</span>
+			</button>
+					</div>
+			<div class="e-n-tabs-content">
+				<div id="e-n-tab-content-1851" role="tabpanel" aria-labelledby="e-n-tabs-title-1851" data-tab-index="1" style="--n-tabs-title-order: 1;" class="e-active elementor-element elementor-element-7409958 e-con-full e-flex e-con e-child" data-id="7409958" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
 		<div class="elementor-element elementor-element-c5c2a91 Home_CTR e-flex e-con-boxed e-con e-child" data-id="c5c2a91" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-751ef94 elementor-widget elementor-widget-alert" data-id="751ef94" data-element_type="widget" data-widget_type="alert.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.17.0 - 08-11-2023 */
-.elementor-alert{padding:15px;border-left:5px solid transparent;position:relative;text-align:left}.elementor-alert .elementor-alert-title{display:block;font-weight:700}.elementor-alert .elementor-alert-description{font-size:13px}.elementor-alert button.elementor-alert-dismiss{position:absolute;right:var(--dismiss-icon-horizontal-position,10px);top:var(--dismiss-icon-vertical-position,10px);padding:3px;font-size:var(--dismiss-icon-size,20px);line-height:1;background:transparent;color:var(--dismiss-icon-normal-color,inherit);border:none;cursor:pointer;transition-duration:var(--dismiss-icon-hover-transition-duration,.3s)}.elementor-alert button.elementor-alert-dismiss:hover{color:var(--dismiss-icon-hover-color,inherit)}.elementor-alert button.elementor-alert-dismiss svg{width:var(--dismiss-icon-size,20px);height:var(--dismiss-icon-size,20px);fill:var(--dismiss-icon-normal-color,currentColor);transition-duration:var(--dismiss-icon-hover-transition-duration,.3s)}.elementor-alert button.elementor-alert-dismiss svg:hover{fill:var(--dismiss-icon-hover-color,currentColor)}.elementor-alert.elementor-alert-info{color:#31708f;background-color:#d9edf7;border-color:#bcdff1}.elementor-alert.elementor-alert-success{color:#3c763d;background-color:#dff0d8;border-color:#cae6be}.elementor-alert.elementor-alert-warning{color:#8a6d3b;background-color:#fcf8e3;border-color:#f9f0c3}.elementor-alert.elementor-alert-danger{color:#a94442;background-color:#f2dede;border-color:#e8c4c4}@media (max-width:767px){.elementor-alert{padding:10px}.elementor-alert button.elementor-alert-dismiss{right:7px;top:7px}}</style>		<div class="elementor-alert elementor-alert-danger" role="alert">
+					<div class="elementor-alert elementor-alert-danger" role="alert">
 			<span class="elementor-alert-title">Hinachi Ai Access Changed</span>
 							<span class="elementor-alert-description">October 14, 2023 Hinachi Ai can no longer be accesable to public.</span>
 										<button type="button" class="elementor-alert-dismiss">
@@ -67,13 +741,11 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-f7d3eae elementor-widget elementor-widget-heading" data-id="f7d3eae" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.17.0 - 08-11-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">What is Hinachi Ai?</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">What is Hinachi Ai?</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-36135ee elementor-widget elementor-widget-text-editor" data-id="36135ee" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.17.0 - 08-11-2023 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><strong class="r-crgep1 r-b88u0q" data-slate-leaf="true" data-offset-key="e5cda7c7f12249c4bd628a9a0c00bf24:0">Hinachi Ai</strong><span data-offset-key="e5cda7c7f12249c4bd628a9a0c00bf24:1" data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkhpbmFjaGklMjBBaSUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJib2xkJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCU3RCU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMiUyMGlzJTIwYW4lMjBhZHZhbmNlZCUyMEFJJTIwSWxsdXN0cmF0b3IlMjBjcmVhdGVkJTIwYnklMjBYZW5vJTIwR2VuJTIwUHJvamVjdHMlMjB0aGF0JTIwcHJpbWFyaWx5JTIwdGFyZ2V0JTIwZm9yJTIwJTVDJTIyVG9vbi1BbmltZSU1QyUyMiUyMGFydCUyMHN0eWxlLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjNlMTg1YjQ1ZmVjNDRkOWU4Y2E4YTMzMDViZjhlOGE0JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMTdkMTk0NzA4ZDRmNDVlNDk4NDE0MzE0NGQ1NTVjYzUlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIwZThlYzczODNiOWE0ODIyOGYzNWUwYzdjMTUwMDJhYSUyMiU3RA=="> is an advanced AI Illustrator created by Xeno Gen Projects that primarily target for &#8220;Toon-Anime&#8221; art style. Even tho, its primarily build for &#8220;Toon-Anime&#8221; art style. It&#8217;s not limited, <strong class="r-crgep1 r-b88u0q" data-slate-leaf="true" data-offset-key="1639dd2278b8456d8920ffbf363c9091:1">Hinachi Ai</strong> can also produce realistic art style.</span></p><p><strong>Hinachi Ai</strong> was public available in November 3, 2022 but on October 14, 2023 it become a private tool for Xeno Gen Projects due to inefficient budget to maintain for public use.</p>						</div>
+							<p><strong class="r-crgep1 r-b88u0q" data-slate-leaf="true" data-offset-key="e5cda7c7f12249c4bd628a9a0c00bf24:0">Hinachi Ai</strong><span data-offset-key="e5cda7c7f12249c4bd628a9a0c00bf24:1" data-slate-fragment="JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJpc1ZvaWQlMjIlM0FmYWxzZSUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkhpbmFjaGklMjBBaSUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJib2xkJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCU3RCU1RCUyQyUyMnNlbGVjdGlvbnMlMjIlM0ElNUIlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMiUyMGlzJTIwYW4lMjBhZHZhbmNlZCUyMEFJJTIwSWxsdXN0cmF0b3IlMjBjcmVhdGVkJTIwYnklMjBYZW5vJTIwR2VuJTIwUHJvamVjdHMlMjB0aGF0JTIwcHJpbWFyaWx5JTIwdGFyZ2V0JTIwZm9yJTIwJTVDJTIyVG9vbi1BbmltZSU1QyUyMiUyMGFydCUyMHN0eWxlLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTJDJTIyc2VsZWN0aW9ucyUyMiUzQSU1QiU1RCU3RCU1RCUyQyUyMmtleSUyMiUzQSUyMjNlMTg1YjQ1ZmVjNDRkOWU4Y2E4YTMzMDViZjhlOGE0JTIyJTdEJTVEJTJDJTIya2V5JTIyJTNBJTIyMTdkMTk0NzA4ZDRmNDVlNDk4NDE0MzE0NGQ1NTVjYzUlMjIlN0QlNUQlMkMlMjJrZXklMjIlM0ElMjIwZThlYzczODNiOWE0ODIyOGYzNWUwYzdjMTUwMDJhYSUyMiU3RA=="> is an advanced AI Illustrator created by Xeno Gen Projects that primarily target for &#8220;Toon-Anime&#8221; art style. Even tho, its primarily build for &#8220;Toon-Anime&#8221; art style. It&#8217;s not limited, <strong class="r-crgep1 r-b88u0q" data-slate-leaf="true" data-offset-key="1639dd2278b8456d8920ffbf363c9091:1">Hinachi Ai</strong> can also produce realistic art style.</span></p><p><strong>Hinachi Ai</strong> was public available in November 3, 2022 but on October 14, 2023 it become a private tool for Xeno Gen Projects due to inefficient budget to maintain for public use.</p>						</div>
 				</div>
 		<div class="elementor-element elementor-element-33ab6f5 e-flex e-con-boxed e-con e-child" data-id="33ab6f5" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
@@ -123,15 +795,15 @@
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-be37a87 elementor-widget elementor-widget-image" data-id="be37a87" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="512" height="700" src="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-1030s-Dreaming-1.png" class="attachment-large size-large wp-image-202" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-1030s-Dreaming-1.png 512w, https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-1030s-Dreaming-1-219x300.png 219w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
+															<img loading="lazy" decoding="async" width="512" height="700" src="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-1030s-Dreaming-1.png" class="attachment-large size-large wp-image-202" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-1030s-Dreaming-1.png 512w, https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-1030s-Dreaming-1-219x300.png 219w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-6bb9088 elementor-widget elementor-widget-image" data-id="6bb9088" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="512" height="700" src="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030s-Dynamic-1.png" class="attachment-large size-large wp-image-203" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030s-Dynamic-1.png 512w, https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030s-Dynamic-1-219x300.png 219w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
+															<img loading="lazy" decoding="async" width="512" height="700" src="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030s-Dynamic-1.png" class="attachment-large size-large wp-image-203" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030s-Dynamic-1.png 512w, https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030s-Dynamic-1-219x300.png 219w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-c53922f elementor-widget elementor-widget-image" data-id="c53922f" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img loading="lazy" decoding="async" width="512" height="700" src="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030m-Twilight-2.0.png" class="attachment-large size-large wp-image-204" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030m-Twilight-2.0.png 512w, https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030m-Twilight-2.0-219x300.png 219w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
+															<img loading="lazy" decoding="async" width="512" height="700" src="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030m-Twilight-2.0-1.png" class="attachment-large size-large wp-image-514" alt="" srcset="https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030m-Twilight-2.0-1.png 512w, https://xenocx.github.io/wp-content/uploads/2023/12/Sticker-LIT-2030m-Twilight-2.0-1-219x300.png 219w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
 				</div>
 					</div>
 				</div>
@@ -342,6 +1014,97 @@
 				</div>
 					</div>
 				</div>
+				</div>
+		<div id="e-n-tab-content-1852" role="tabpanel" aria-labelledby="e-n-tabs-title-1852" data-tab-index="2" style="--n-tabs-title-order: 2;" class=" elementor-element elementor-element-5cc1a93 e-con-full e-flex e-con e-child" data-id="5cc1a93" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
+				<div class="elementor-element elementor-element-0cdfb24 elementor-widget elementor-widget-elementskit-blog-posts" data-id="0cdfb24" data-element_type="widget" data-widget_type="elementskit-blog-posts.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <div id="post-items--0cdfb24" class="row post-items">
+                    <div class="col-md-12">
+
+                                    <div class="elementskit-blog-block-post">
+                        <div class="row no-gutters">
+                            
+                            <div class="col-md-12 order-2">
+                                <div class="elementskit-post-body ">
+                                    <div class="elementskit-entry-header">
+                                        
+                                                                                                                                        
+                                            
+                                                                                            				<h2 class="entry-title">
+					<a href="https://xenocx.github.io/elementor-639/">
+						HAi &#8211; Christmas 2023 Update					</a>
+				</h2>
+			                                                                                </div><!-- .elementskit-entry-header END -->
+
+                                                                            <div class="elementskit-post-footer">
+                                                                                            <p>Christmas 2023 Update Version Target: Hinachi Ai (HAi) Version: Hinachi Ai 3.0.2312 New BATCH 1 Pose Editor &#8211; Hinachi Ai can now illustrate a specific&hellip;</p>
+                                                                                                                                </div><!-- .elementskit-post-footer END -->
+                                                                    </div><!-- .elementskit-post-body END -->
+                            </div>
+                        </div>
+                    </div><!-- .elementskit-blog-block-post .radius .gradient-bg END -->
+                
+            </div>
+                    <div class="col-md-12">
+
+                                    <div class="elementskit-blog-block-post">
+                        <div class="row no-gutters">
+                            
+                            <div class="col-md-12 order-2">
+                                <div class="elementskit-post-body ">
+                                    <div class="elementskit-entry-header">
+                                        
+                                                                                                                                        
+                                            
+                                                                                            				<h2 class="entry-title">
+					<a href="https://xenocx.github.io/hai-oct-2023-update/">
+						HAi &#8211; Oct 2023 Update					</a>
+				</h2>
+			                                                                                </div><!-- .elementskit-entry-header END -->
+
+                                                                            <div class="elementskit-post-footer">
+                                                                                            <p>October Update Version Target: Hinachi Ai Version: Hinachi Ai 2.0 Update 2310 Changes BATCH 1 Hinachi Ai will be no longer public available due to&hellip;</p>
+                                                                                                                                </div><!-- .elementskit-post-footer END -->
+                                                                    </div><!-- .elementskit-post-body END -->
+                            </div>
+                        </div>
+                    </div><!-- .elementskit-blog-block-post .radius .gradient-bg END -->
+                
+            </div>
+                    <div class="col-md-12">
+
+                                    <div class="elementskit-blog-block-post">
+                        <div class="row no-gutters">
+                            
+                            <div class="col-md-12 order-2">
+                                <div class="elementskit-post-body ">
+                                    <div class="elementskit-entry-header">
+                                        
+                                                                                                                                        
+                                            
+                                                                                            				<h2 class="entry-title">
+					<a href="https://xenocx.github.io/elementor-714/">
+						HAi &#8211; Jun 2023 Update					</a>
+				</h2>
+			                                                                                </div><!-- .elementskit-entry-header END -->
+
+                                                                            <div class="elementskit-post-footer">
+                                                                                            <p>Jun 2023 Update Version Target: Hinachi Ai Version: Hinachi Ai 2.0.2306 New BATCH 1 Hinachi Ai 2.0 Initial Release New GUI Improved BATCH 1 AI&hellip;</p>
+                                                                                                                                </div><!-- .elementskit-post-footer END -->
+                                                                    </div><!-- .elementskit-post-body END -->
+                            </div>
+                        </div>
+                    </div><!-- .elementskit-blog-block-post .radius .gradient-bg END -->
+                
+            </div>
+                </div>
+       </div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				</div>
+				</div>
 		<div class="elementor-element elementor-element-86efe63 Diffuser_CTR e-flex e-con-boxed e-con e-child" data-id="86efe63" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
 					</div>
@@ -427,6 +1190,10 @@
 				<div class="elementor-element elementor-element-3effd39 elementor-widget elementor-widget-heading" data-id="3effd39" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-small">Python</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6d8228d elementor-widget elementor-widget-heading" data-id="6d8228d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-small">C#</h2>		</div>
 				</div>
 				</div>
 				</div>
