@@ -12,7 +12,7 @@
 	<atom:link href="https://xenocx.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://xenocx.github.io/</link>
 	<description></description>
-	<lastBuildDate>Sat, 13 Jan 2024 09:58:56 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Jan 2024 10:32:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -484,8 +484,8 @@
 		
 			</item>
 		<item>
-		<title>PSAI</title>
-		<link>https://xenocx.github.io/psai/</link>
+		<title>AI</title>
+		<link>https://xenocx.github.io/ai/</link>
 		
 		<dc:creator><![CDATA[Xeno]]></dc:creator>
 		<pubDate>Sat, 06 Jan 2024 05:28:52 +0000</pubDate>
